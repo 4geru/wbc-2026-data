@@ -1,48 +1,48 @@
-試合ID,日付,ラウンド,プール,アウェイチーム,ホームチーム,アウェイ得点,ホーム得点,試合時間（分）,ステータス
-788120,2026-03-05,Pool C,C,Chinese Taipei,Australia,0,3,,Final
-788115,2026-03-05,Pool C,C,Czechia,Korea,4,11,,Final
-788116,2026-03-06,Pool C,C,Australia,Czechia,5,1,,Final
-788114,2026-03-06,Pool C,C,Japan,Chinese Taipei,13,0,,Completed Early
-788139,2026-03-06,Pool A,A,Cuba,Panama,3,1,,Final
-788110,2026-03-06,Pool D,D,Kingdom of the Netherlands,Venezuela,2,6,,Final
-788129,2026-03-06,Pool B,B,Mexico,Great Britain,8,2,,Final
-788136,2026-03-06,Pool A,A,Puerto Rico,Colombia,5,0,,Final
-788105,2026-03-06,Pool D,D,Nicaragua,Dominican Republic,3,12,,Final
-788128,2026-03-06,Pool B,B,United States,Brazil,15,5,,Final
-788117,2026-03-07,Pool C,C,Chinese Taipei,Czechia,14,0,,Completed Early
-788118,2026-03-07,Pool C,C,Korea,Japan,6,8,,Final
-788138,2026-03-07,Pool A,A,Colombia,Canada,2,8,,Final
-788108,2026-03-07,Pool D,D,Nicaragua,Kingdom of the Netherlands,3,4,,Final
-788126,2026-03-07,Pool B,B,Brazil,Italy,0,8,,Final
-788137,2026-03-07,Pool A,A,Panama,Puerto Rico,3,4,,Final
-788107,2026-03-07,Pool D,D,Israel,Venezuela,3,11,,Final
-788127,2026-03-07,Pool B,B,Great Britain,United States,1,9,,Final
-788113,2026-03-08,Pool C,C,Chinese Taipei,Korea,5,4,,Final
-788109,2026-03-08,Pool C,C,Australia,Japan,3,4,,Final
-788135,2026-03-08,Pool A,A,Colombia,Cuba,4,7,,Final
-788106,2026-03-08,Pool D,D,Kingdom of the Netherlands,Dominican Republic,1,12,,Completed Early
-788124,2026-03-08,Pool B,B,Great Britain,Italy,4,7,,Final
-788104,2026-03-08,Pool D,D,Nicaragua,Israel,0,5,,Final
-788134,2026-03-08,Pool A,A,Panama,Canada,4,3,,Final
-788125,2026-03-08,Pool B,B,Brazil,Mexico,0,16,,Completed Early
-788112,2026-03-09,Pool C,C,Korea,Australia,7,2,,Final
-788103,2026-03-09,Pool D,D,Dominican Republic,Israel,10,1,,Final
-788133,2026-03-09,Pool A,A,Colombia,Panama,4,3,,Final
-788123,2026-03-09,Pool B,B,Brazil,Great Britain,1,8,,Final
-788131,2026-03-09,Pool A,A,Cuba,Puerto Rico,1,4,,Final
-788099,2026-03-09,Pool D,D,Venezuela,Nicaragua,4,0,,Final
-788122,2026-03-09,Pool B,B,Mexico,United States,3,5,,Final
-788111,2026-03-10,Pool C,C,Czechia,Japan,0,9,,Final
-788102,2026-03-10,Pool D,D,Israel,Kingdom of the Netherlands,6,2,,Final
-788132,2026-03-10,Pool A,A,Canada,Puerto Rico,3,2,,Final
-788119,2026-03-10,Pool B,B,Italy,United States,8,6,,Final
-788130,2026-03-11,Pool A,A,Canada,Cuba,7,2,,Final
-788121,2026-03-11,Pool B,B,Italy,Mexico,9,1,,Final
-788101,2026-03-11,Pool D,D,Dominican Republic,Venezuela,7,5,,Final
-788095,2026-03-13,Quarterfinal,,Korea,Dominican Republic,0,10,,Completed Early
-788100,2026-03-13,Quarterfinal,,United States,Canada,5,3,,Final
-788098,2026-03-14,Quarterfinal,,Puerto Rico,Italy,6,8,,Final
-788097,2026-03-14,Quarterfinal,,Venezuela,Japan,8,5,,Final
-788096,2026-03-15,Semifinal,,United States,Dominican Republic,2,1,,Final
-788093,2026-03-16,Semifinal,,Venezuela,Italy,4,2,,Final
-788094,2026-03-17,Final,,Venezuela,United States,3,2,,Final
+試合ID,日付,ラウンド,プール,アウェイチーム,ホームチーム,アウェイ得点,ホーム得点,勝利チーム,敗戦チーム,得点差,試合時間（分）,ステータス
+788120,2026-03-05,Pool C,C,Chinese Taipei,Australia,0,3,Australia,Chinese Taipei,3,,Final
+788115,2026-03-05,Pool C,C,Czechia,Korea,4,11,Korea,Czechia,7,,Final
+788116,2026-03-06,Pool C,C,Australia,Czechia,5,1,Australia,Czechia,4,,Final
+788114,2026-03-06,Pool C,C,Japan,Chinese Taipei,13,0,Japan,Chinese Taipei,13,,Completed Early
+788139,2026-03-06,Pool A,A,Cuba,Panama,3,1,Cuba,Panama,2,,Final
+788110,2026-03-06,Pool D,D,Kingdom of the Netherlands,Venezuela,2,6,Venezuela,Kingdom of the Netherlands,4,,Final
+788129,2026-03-06,Pool B,B,Mexico,Great Britain,8,2,Mexico,Great Britain,6,,Final
+788136,2026-03-06,Pool A,A,Puerto Rico,Colombia,5,0,Puerto Rico,Colombia,5,,Final
+788105,2026-03-06,Pool D,D,Nicaragua,Dominican Republic,3,12,Dominican Republic,Nicaragua,9,,Final
+788128,2026-03-06,Pool B,B,United States,Brazil,15,5,United States,Brazil,10,,Final
+788117,2026-03-07,Pool C,C,Chinese Taipei,Czechia,14,0,Chinese Taipei,Czechia,14,,Completed Early
+788118,2026-03-07,Pool C,C,Korea,Japan,6,8,Japan,Korea,2,,Final
+788138,2026-03-07,Pool A,A,Colombia,Canada,2,8,Canada,Colombia,6,,Final
+788108,2026-03-07,Pool D,D,Nicaragua,Kingdom of the Netherlands,3,4,Kingdom of the Netherlands,Nicaragua,1,,Final
+788126,2026-03-07,Pool B,B,Brazil,Italy,0,8,Italy,Brazil,8,,Final
+788137,2026-03-07,Pool A,A,Panama,Puerto Rico,3,4,Puerto Rico,Panama,1,,Final
+788107,2026-03-07,Pool D,D,Israel,Venezuela,3,11,Venezuela,Israel,8,,Final
+788127,2026-03-07,Pool B,B,Great Britain,United States,1,9,United States,Great Britain,8,,Final
+788113,2026-03-08,Pool C,C,Chinese Taipei,Korea,5,4,Chinese Taipei,Korea,1,,Final
+788109,2026-03-08,Pool C,C,Australia,Japan,3,4,Japan,Australia,1,,Final
+788135,2026-03-08,Pool A,A,Colombia,Cuba,4,7,Cuba,Colombia,3,,Final
+788106,2026-03-08,Pool D,D,Kingdom of the Netherlands,Dominican Republic,1,12,Dominican Republic,Kingdom of the Netherlands,11,,Completed Early
+788124,2026-03-08,Pool B,B,Great Britain,Italy,4,7,Italy,Great Britain,3,,Final
+788104,2026-03-08,Pool D,D,Nicaragua,Israel,0,5,Israel,Nicaragua,5,,Final
+788134,2026-03-08,Pool A,A,Panama,Canada,4,3,Panama,Canada,1,,Final
+788125,2026-03-08,Pool B,B,Brazil,Mexico,0,16,Mexico,Brazil,16,,Completed Early
+788112,2026-03-09,Pool C,C,Korea,Australia,7,2,Korea,Australia,5,,Final
+788103,2026-03-09,Pool D,D,Dominican Republic,Israel,10,1,Dominican Republic,Israel,9,,Final
+788133,2026-03-09,Pool A,A,Colombia,Panama,4,3,Colombia,Panama,1,,Final
+788123,2026-03-09,Pool B,B,Brazil,Great Britain,1,8,Great Britain,Brazil,7,,Final
+788131,2026-03-09,Pool A,A,Cuba,Puerto Rico,1,4,Puerto Rico,Cuba,3,,Final
+788099,2026-03-09,Pool D,D,Venezuela,Nicaragua,4,0,Venezuela,Nicaragua,4,,Final
+788122,2026-03-09,Pool B,B,Mexico,United States,3,5,United States,Mexico,2,,Final
+788111,2026-03-10,Pool C,C,Czechia,Japan,0,9,Japan,Czechia,9,,Final
+788102,2026-03-10,Pool D,D,Israel,Kingdom of the Netherlands,6,2,Israel,Kingdom of the Netherlands,4,,Final
+788132,2026-03-10,Pool A,A,Canada,Puerto Rico,3,2,Canada,Puerto Rico,1,,Final
+788119,2026-03-10,Pool B,B,Italy,United States,8,6,Italy,United States,2,,Final
+788130,2026-03-11,Pool A,A,Canada,Cuba,7,2,Canada,Cuba,5,,Final
+788121,2026-03-11,Pool B,B,Italy,Mexico,9,1,Italy,Mexico,8,,Final
+788101,2026-03-11,Pool D,D,Dominican Republic,Venezuela,7,5,Dominican Republic,Venezuela,2,,Final
+788095,2026-03-13,Quarterfinal,,Korea,Dominican Republic,0,10,Dominican Republic,Korea,10,,Completed Early
+788100,2026-03-13,Quarterfinal,,United States,Canada,5,3,United States,Canada,2,,Final
+788098,2026-03-14,Quarterfinal,,Puerto Rico,Italy,6,8,Italy,Puerto Rico,2,,Final
+788097,2026-03-14,Quarterfinal,,Venezuela,Japan,8,5,Venezuela,Japan,3,,Final
+788096,2026-03-15,Semifinal,,United States,Dominican Republic,2,1,United States,Dominican Republic,1,,Final
+788093,2026-03-16,Semifinal,,Venezuela,Italy,4,2,Venezuela,Italy,2,,Final
+788094,2026-03-17,Final,,Venezuela,United States,3,2,Venezuela,United States,1,,Final

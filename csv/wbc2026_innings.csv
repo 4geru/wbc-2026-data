@@ -1,837 +1,829 @@
-試合ID,イニング,攻撃チーム,得点,安打,失策,残塁
-788120,1,Chinese Taipei,0,0,0,1
-788120,1,Australia,0,1,0,1
-788120,2,Chinese Taipei,0,0,0,0
-788120,2,Australia,0,0,0,0
-788120,3,Chinese Taipei,0,0,0,0
-788120,3,Australia,0,1,0,1
-788120,4,Chinese Taipei,0,1,0,1
-788120,4,Australia,0,0,0,0
-788120,5,Chinese Taipei,0,0,0,0
-788120,5,Australia,2,1,0,1
-788120,6,Chinese Taipei,0,1,0,2
-788120,6,Australia,0,1,0,3
-788120,7,Chinese Taipei,0,0,0,0
-788120,7,Australia,1,2,0,1
-788120,8,Chinese Taipei,0,0,0,1
-788120,8,Australia,0,1,0,1
-788120,9,Chinese Taipei,0,1,0,2
-788120,9,Australia,0,0,1,0
-788115,1,Czechia,0,1,0,0
-788115,1,Korea,4,2,0,0
-788115,2,Czechia,0,2,0,3
-788115,2,Korea,1,2,0,2
-788115,3,Czechia,0,1,0,0
-788115,3,Korea,1,1,0,0
-788115,4,Czechia,0,2,0,2
-788115,4,Korea,0,0,0,1
-788115,5,Czechia,3,2,0,0
-788115,5,Korea,2,1,0,1
-788115,6,Czechia,0,0,0,1
-788115,6,Korea,0,0,0,0
-788115,7,Czechia,0,0,1,0
-788115,7,Korea,2,2,0,0
-788115,8,Czechia,0,0,0,0
-788115,8,Korea,1,2,0,1
-788115,9,Czechia,1,1,0,1
-788115,9,Korea,0,0,0,0
-788116,1,Australia,0,0,0,0
-788116,1,Czechia,0,0,0,0
-788116,2,Australia,0,0,0,0
-788116,2,Czechia,1,1,0,1
-788116,3,Australia,3,2,0,0
-788116,3,Czechia,0,1,0,1
-788116,4,Australia,0,1,0,1
-788116,4,Czechia,0,1,0,1
-788116,5,Australia,0,0,0,0
-788116,5,Czechia,0,0,0,0
-788116,6,Australia,0,1,0,1
-788116,6,Czechia,0,0,0,0
-788116,7,Australia,0,0,1,0
-788116,7,Czechia,0,1,0,1
-788116,8,Australia,0,1,0,1
-788116,8,Czechia,0,0,0,0
-788116,9,Australia,2,4,0,2
-788116,9,Czechia,0,0,0,1
-788114,1,Japan,0,1,0,2
-788114,1,Chinese Taipei,0,0,0,0
-788114,2,Japan,10,7,0,2
-788114,2,Chinese Taipei,0,0,0,0
-788114,3,Japan,3,4,1,1
-788114,3,Chinese Taipei,0,0,0,3
-788114,4,Japan,0,0,0,0
-788114,4,Chinese Taipei,0,0,0,1
-788114,5,Japan,0,0,0,0
-788114,5,Chinese Taipei,0,0,0,2
-788114,6,Japan,0,1,0,0
-788114,6,Chinese Taipei,0,1,0,1
-788114,7,Japan,0,0,0,2
-788114,7,Chinese Taipei,0,0,0,0
-788114,8,Japan,0,0,0,0
-788114,8,Chinese Taipei,0,0,0,0
-788114,9,Japan,0,0,0,0
-788114,9,Chinese Taipei,0,0,0,0
-788139,1,Cuba,0,1,1,1
-788139,1,Panama,0,0,0,1
-788139,2,Cuba,1,1,0,0
-788139,2,Panama,0,0,0,0
-788139,3,Cuba,2,3,0,1
-788139,3,Panama,0,1,0,1
-788139,4,Cuba,0,0,0,0
-788139,4,Panama,0,1,0,2
-788139,5,Cuba,0,0,0,1
-788139,5,Panama,0,0,0,0
-788139,6,Cuba,0,0,0,0
-788139,6,Panama,0,0,0,0
-788139,7,Cuba,0,0,0,0
-788139,7,Panama,1,2,0,1
-788139,8,Cuba,0,0,0,0
-788139,8,Panama,0,1,0,1
-788139,9,Cuba,0,0,0,0
-788139,9,Panama,0,0,0,0
-788110,1,Kingdom of the Netherlands,0,1,0,1
-788110,1,Venezuela,1,3,0,2
-788110,2,Kingdom of the Netherlands,1,2,0,2
-788110,2,Venezuela,1,1,0,0
-788110,3,Kingdom of the Netherlands,0,0,0,0
-788110,3,Venezuela,0,0,0,0
-788110,4,Kingdom of the Netherlands,0,0,1,1
-788110,4,Venezuela,0,1,0,1
-788110,5,Kingdom of the Netherlands,0,1,0,2
-788110,5,Venezuela,4,3,0,2
-788110,6,Kingdom of the Netherlands,1,0,0,2
-788110,6,Venezuela,0,0,0,0
-788110,7,Kingdom of the Netherlands,0,0,0,0
-788110,7,Venezuela,0,1,0,1
-788110,8,Kingdom of the Netherlands,0,0,0,1
-788110,8,Venezuela,0,2,0,1
-788110,9,Kingdom of the Netherlands,0,0,0,1
-788110,9,Venezuela,0,0,0,0
-788129,1,Mexico,0,1,0,1
-788129,1,Great Britain,0,2,0,2
-788129,2,Mexico,1,1,0,0
-788129,2,Great Britain,0,0,0,0
-788129,3,Mexico,0,0,0,0
-788129,3,Great Britain,0,0,0,0
-788129,4,Mexico,0,0,0,0
-788129,4,Great Britain,0,0,0,0
-788129,5,Mexico,0,0,0,0
-788129,5,Great Britain,0,2,0,2
-788129,6,Mexico,0,0,0,2
-788129,6,Great Britain,1,2,0,2
-788129,7,Mexico,0,0,0,0
-788129,7,Great Britain,0,0,0,0
-788129,8,Mexico,3,1,0,0
-788129,8,Great Britain,0,0,0,2
-788129,9,Mexico,4,3,0,1
-788129,9,Great Britain,1,2,0,1
-788136,1,Puerto Rico,0,0,0,0
-788136,1,Colombia,0,0,0,0
-788136,2,Puerto Rico,0,0,0,0
-788136,2,Colombia,0,1,0,2
-788136,3,Puerto Rico,0,0,0,0
-788136,3,Colombia,0,0,0,1
-788136,4,Puerto Rico,0,0,0,0
-788136,4,Colombia,0,2,0,1
-788136,5,Puerto Rico,5,5,0,1
-788136,5,Colombia,0,0,1,2
-788136,6,Puerto Rico,0,0,0,0
-788136,6,Colombia,0,0,0,1
-788136,7,Puerto Rico,0,0,0,3
-788136,7,Colombia,0,0,0,0
-788136,8,Puerto Rico,0,0,0,0
-788136,8,Colombia,0,2,0,3
-788136,9,Puerto Rico,0,0,0,0
-788136,9,Colombia,0,1,0,1
-788105,1,Nicaragua,1,2,0,3
-788105,1,Dominican Republic,2,3,0,1
-788105,2,Nicaragua,2,4,1,2
-788105,2,Dominican Republic,0,0,1,2
-788105,3,Nicaragua,0,0,0,0
-788105,3,Dominican Republic,1,3,0,1
-788105,4,Nicaragua,0,0,0,0
-788105,4,Dominican Republic,0,0,0,0
-788105,5,Nicaragua,0,0,0,0
-788105,5,Dominican Republic,0,0,0,0
-788105,6,Nicaragua,0,1,0,1
-788105,6,Dominican Republic,2,2,0,0
-788105,7,Nicaragua,0,0,0,1
-788105,7,Dominican Republic,1,1,0,2
-788105,8,Nicaragua,0,0,0,0
-788105,8,Dominican Republic,6,5,0,2
-788105,9,Nicaragua,0,2,0,2
-788105,9,Dominican Republic,0,0,0,0
-788128,1,United States,2,3,0,2
-788128,1,Brazil,1,1,0,0
-788128,2,United States,0,1,0,2
-788128,2,Brazil,0,0,0,0
-788128,3,United States,1,1,0,2
-788128,3,Brazil,0,0,0,0
-788128,4,United States,0,0,0,0
-788128,4,Brazil,0,0,0,0
-788128,5,United States,4,1,0,2
-788128,5,Brazil,0,0,0,0
-788128,6,United States,0,0,1,2
-788128,6,Brazil,0,1,0,1
-788128,7,United States,0,0,0,0
-788128,7,Brazil,3,3,0,0
-788128,8,United States,1,1,0,2
-788128,8,Brazil,1,1,0,0
-788128,9,United States,7,3,0,1
-788128,9,Brazil,0,0,0,1
-788117,1,Chinese Taipei,2,3,0,1
-788117,1,Czechia,0,1,1,2
-788117,2,Chinese Taipei,4,2,0,0
-788117,2,Czechia,0,1,0,1
-788117,3,Chinese Taipei,0,0,0,1
-788117,3,Czechia,0,0,0,1
-788117,4,Chinese Taipei,2,1,0,1
-788117,4,Czechia,0,2,0,2
-788117,5,Chinese Taipei,1,2,0,2
-788117,5,Czechia,0,0,0,0
-788117,6,Chinese Taipei,5,2,0,1
-788117,6,Czechia,0,0,0,0
-788117,7,Chinese Taipei,0,1,0,1
-788117,7,Czechia,0,0,0,0
-788118,1,Korea,3,4,0,1
-788118,1,Japan,2,1,0,0
-788118,2,Korea,0,0,0,0
-788118,2,Japan,0,0,0,0
-788118,3,Korea,0,2,0,2
-788118,3,Japan,3,3,0,0
-788118,4,Korea,2,1,0,0
-788118,4,Japan,0,0,0,0
-788118,5,Korea,0,0,0,0
-788118,5,Japan,0,1,0,1
-788118,6,Korea,0,0,0,0
-788118,6,Japan,0,0,0,0
-788118,7,Korea,0,0,0,0
-788118,7,Japan,3,1,0,2
-788118,8,Korea,1,2,0,3
-788118,8,Japan,0,1,0,1
-788118,9,Korea,0,0,0,0
-788118,9,Japan,0,0,0,0
-788138,1,Colombia,0,1,0,0
-788138,1,Canada,0,0,0,1
-788138,2,Colombia,0,0,0,0
-788138,2,Canada,2,2,0,0
-788138,3,Colombia,1,3,0,2
-788138,3,Canada,1,2,0,3
-788138,4,Colombia,0,0,0,1
-788138,4,Canada,0,0,0,0
-788138,5,Colombia,0,0,0,0
-788138,5,Canada,0,0,0,0
-788138,6,Colombia,0,1,0,1
-788138,6,Canada,0,0,0,0
-788138,7,Colombia,0,0,1,0
-788138,7,Canada,1,1,0,1
-788138,8,Colombia,1,1,1,2
-788138,8,Canada,4,3,0,3
-788138,9,Colombia,0,0,0,0
-788138,9,Canada,0,0,1,0
-788108,1,Nicaragua,0,0,0,1
-788108,1,Kingdom of the Netherlands,0,1,0,2
-788108,2,Nicaragua,0,1,0,2
-788108,2,Kingdom of the Netherlands,0,0,0,0
-788108,3,Nicaragua,0,1,0,1
-788108,3,Kingdom of the Netherlands,1,2,1,3
-788108,4,Nicaragua,0,0,0,1
-788108,4,Kingdom of the Netherlands,0,2,0,1
-788108,5,Nicaragua,1,2,0,3
-788108,5,Kingdom of the Netherlands,0,0,0,0
-788108,6,Nicaragua,0,0,0,1
-788108,6,Kingdom of the Netherlands,0,1,0,3
-788108,7,Nicaragua,0,3,0,3
-788108,7,Kingdom of the Netherlands,0,1,0,1
-788108,8,Nicaragua,2,2,0,1
-788108,8,Kingdom of the Netherlands,0,0,0,0
-788108,9,Nicaragua,0,0,0,1
-788108,9,Kingdom of the Netherlands,3,3,0,0
-788126,1,Brazil,0,0,0,0
-788126,1,Italy,0,1,0,1
-788126,2,Brazil,0,0,0,0
-788126,2,Italy,0,0,0,0
-788126,3,Brazil,0,1,0,1
-788126,3,Italy,0,1,0,1
-788126,4,Brazil,0,0,0,0
-788126,4,Italy,0,0,0,0
-788126,5,Brazil,0,0,0,0
-788126,5,Italy,0,2,0,2
-788126,6,Brazil,0,0,0,0
-788126,6,Italy,2,2,0,1
-788126,7,Brazil,0,1,0,1
-788126,7,Italy,4,3,0,2
-788126,8,Brazil,0,1,0,2
-788126,8,Italy,2,3,0,2
-788126,9,Brazil,0,1,0,1
-788126,9,Italy,0,0,0,0
-788137,1,Panama,0,0,0,0
-788137,1,Puerto Rico,0,0,0,0
-788137,2,Panama,0,1,0,1
-788137,2,Puerto Rico,0,1,0,0
-788137,3,Panama,0,0,0,0
-788137,3,Puerto Rico,0,1,0,1
-788137,4,Panama,0,0,0,1
-788137,4,Puerto Rico,0,0,0,0
-788137,5,Panama,2,2,0,2
-788137,5,Puerto Rico,0,1,1,1
-788137,6,Panama,0,1,0,1
-788137,6,Puerto Rico,1,2,0,1
-788137,7,Panama,0,0,0,1
-788137,7,Puerto Rico,0,2,0,2
-788137,8,Panama,0,0,0,0
-788137,8,Puerto Rico,0,0,0,1
-788137,9,Panama,0,0,0,0
-788137,9,Puerto Rico,1,1,0,3
-788137,10,Panama,1,2,0,1
-788137,10,Puerto Rico,2,2,0,0
-788107,1,Israel,0,0,1,0
-788107,1,Venezuela,4,3,0,0
-788107,2,Israel,0,0,0,0
-788107,2,Venezuela,0,1,0,1
-788107,3,Israel,0,0,1,0
-788107,3,Venezuela,0,0,0,1
-788107,4,Israel,0,0,0,0
-788107,4,Venezuela,0,1,0,1
-788107,5,Israel,1,2,0,1
-788107,5,Venezuela,1,1,0,1
-788107,6,Israel,1,1,0,0
-788107,6,Venezuela,5,3,0,0
-788107,7,Israel,0,1,0,1
-788107,7,Venezuela,0,2,0,2
-788107,8,Israel,0,0,0,0
-788107,8,Venezuela,1,3,0,2
-788107,9,Israel,1,3,0,2
-788107,9,Venezuela,0,0,0,0
-788127,1,Great Britain,1,1,0,0
-788127,1,United States,0,0,0,0
-788127,2,Great Britain,0,0,0,0
-788127,2,United States,0,2,0,2
-788127,3,Great Britain,0,1,0,1
-788127,3,United States,0,0,1,0
-788127,4,Great Britain,0,0,0,0
-788127,4,United States,0,0,0,1
-788127,5,Great Britain,0,0,2,0
-788127,5,United States,5,4,0,2
-788127,6,Great Britain,0,1,0,0
-788127,6,United States,3,4,0,3
-788127,7,Great Britain,0,0,0,0
-788127,7,United States,1,1,0,1
-788127,8,Great Britain,0,0,0,0
-788127,8,United States,0,1,0,3
-788127,9,Great Britain,0,0,0,0
-788127,9,United States,0,0,0,0
-788113,1,Chinese Taipei,0,0,0,0
-788113,1,Korea,0,0,0,0
-788113,2,Chinese Taipei,1,1,0,0
-788113,2,Korea,0,0,0,0
-788113,3,Chinese Taipei,0,2,0,2
-788113,3,Korea,0,1,0,0
-788113,4,Chinese Taipei,0,0,0,0
-788113,4,Korea,0,0,0,0
-788113,5,Chinese Taipei,0,0,0,0
-788113,5,Korea,1,1,0,0
-788113,6,Chinese Taipei,1,1,0,0
-788113,6,Korea,2,1,0,0
-788113,7,Chinese Taipei,0,1,0,1
-788113,7,Korea,0,0,0,0
-788113,8,Chinese Taipei,2,2,0,0
-788113,8,Korea,1,1,0,1
-788113,9,Chinese Taipei,0,0,0,0
-788113,9,Korea,0,0,0,2
-788113,10,Chinese Taipei,1,0,0,2
-788113,10,Korea,0,0,0,1
-788109,1,Australia,0,2,0,2
-788109,1,Japan,0,0,0,2
-788109,2,Australia,0,0,0,0
-788109,2,Japan,0,1,0,2
-788109,3,Australia,0,1,0,0
-788109,3,Japan,0,0,0,0
-788109,4,Australia,0,1,0,1
-788109,4,Japan,0,1,0,2
-788109,5,Australia,0,1,0,1
-788109,5,Japan,0,0,0,1
-788109,6,Australia,1,1,0,0
-788109,6,Japan,0,1,1,2
-788109,7,Australia,0,0,0,0
-788109,7,Japan,2,1,0,0
-788109,8,Australia,0,0,0,0
-788109,8,Japan,2,1,0,2
-788109,9,Australia,2,2,0,0
-788109,9,Japan,0,0,0,0
-788135,1,Colombia,1,0,0,2
-788135,1,Cuba,4,2,1,0
-788135,2,Colombia,0,0,0,1
-788135,2,Cuba,0,0,0,0
-788135,3,Colombia,0,1,0,1
-788135,3,Cuba,0,0,0,0
-788135,4,Colombia,0,0,0,0
-788135,4,Cuba,0,2,0,2
-788135,5,Colombia,0,1,0,2
-788135,5,Cuba,0,0,0,0
-788135,6,Colombia,1,1,1,1
-788135,6,Cuba,3,2,0,1
-788135,7,Colombia,2,2,0,3
-788135,7,Cuba,0,0,0,0
-788135,8,Colombia,0,2,0,1
-788135,8,Cuba,0,2,0,2
-788135,9,Colombia,0,0,0,1
-788135,9,Cuba,0,0,0,0
-788106,1,Kingdom of the Netherlands,0,0,1,0
-788106,1,Dominican Republic,2,2,0,2
-788106,2,Kingdom of the Netherlands,1,1,0,0
-788106,2,Dominican Republic,0,0,0,0
-788106,3,Kingdom of the Netherlands,0,1,0,1
-788106,3,Dominican Republic,2,1,0,1
-788106,4,Kingdom of the Netherlands,0,1,0,1
-788106,4,Dominican Republic,0,0,0,1
-788106,5,Kingdom of the Netherlands,0,0,0,0
-788106,5,Dominican Republic,6,4,0,2
-788106,6,Kingdom of the Netherlands,0,1,0,2
-788106,6,Dominican Republic,0,0,0,1
-788106,7,Kingdom of the Netherlands,0,1,0,1
-788106,7,Dominican Republic,2,1,0,0
-788124,1,Great Britain,2,2,0,1
-788124,1,Italy,0,0,0,0
-788124,2,Great Britain,0,0,0,0
-788124,2,Italy,0,0,0,0
-788124,3,Great Britain,0,0,0,0
-788124,3,Italy,2,2,0,1
-788124,4,Great Britain,0,1,1,2
-788124,4,Italy,3,4,0,3
-788124,5,Great Britain,0,0,1,0
-788124,5,Italy,2,1,0,0
-788124,6,Great Britain,0,0,0,0
-788124,6,Italy,0,3,0,2
-788124,7,Great Britain,0,1,0,1
-788124,7,Italy,0,0,0,0
-788124,8,Great Britain,2,2,0,1
-788124,8,Italy,0,2,0,3
-788124,9,Great Britain,0,1,0,3
-788124,9,Italy,0,0,0,0
-788104,1,Nicaragua,0,0,0,0
-788104,1,Israel,0,0,0,1
-788104,2,Nicaragua,0,0,0,0
-788104,2,Israel,1,2,0,2
-788104,3,Nicaragua,0,1,0,1
-788104,3,Israel,0,0,0,0
-788104,4,Nicaragua,0,0,0,0
-788104,4,Israel,0,0,0,0
-788104,5,Nicaragua,0,1,0,2
-788104,5,Israel,4,5,0,2
-788104,6,Nicaragua,0,0,0,1
-788104,6,Israel,0,1,0,1
-788104,7,Nicaragua,0,0,0,0
-788104,7,Israel,0,0,0,2
-788104,8,Nicaragua,0,0,0,0
-788104,8,Israel,0,0,0,1
-788104,9,Nicaragua,0,0,0,0
-788104,9,Israel,0,0,0,0
-788134,1,Panama,0,1,0,2
-788134,1,Canada,0,0,1,1
-788134,2,Panama,0,0,0,0
-788134,2,Canada,1,2,0,1
-788134,3,Panama,0,0,0,0
-788134,3,Canada,0,0,0,1
-788134,4,Panama,1,3,0,2
-788134,4,Canada,1,3,0,2
-788134,5,Panama,0,0,0,1
-788134,5,Canada,0,1,0,3
-788134,6,Panama,3,3,0,2
-788134,6,Canada,0,0,2,0
-788134,7,Panama,0,2,0,2
-788134,7,Canada,0,0,0,0
-788134,8,Panama,0,2,0,1
-788134,8,Canada,1,2,0,1
-788134,9,Panama,0,0,0,0
-788134,9,Canada,0,1,0,1
-788125,1,Brazil,0,0,0,1
-788125,1,Mexico,4,5,0,2
-788125,2,Brazil,0,0,0,1
-788125,2,Mexico,1,1,0,0
-788125,3,Brazil,0,0,0,0
-788125,3,Mexico,0,1,0,0
-788125,4,Brazil,0,0,0,1
-788125,4,Mexico,6,6,0,2
-788125,5,Brazil,0,1,0,1
-788125,5,Mexico,1,1,0,1
-788125,6,Brazil,0,2,0,2
-788125,6,Mexico,4,2,0,0
-788112,1,Korea,0,0,0,0
-788112,1,Australia,0,1,0,2
-788112,2,Korea,2,2,0,2
-788112,2,Australia,0,1,0,0
-788112,3,Korea,2,3,0,1
-788112,3,Australia,0,0,0,0
-788112,4,Korea,0,0,0,0
-788112,4,Australia,0,0,0,0
-788112,5,Korea,1,1,0,1
-788112,5,Australia,1,1,0,0
-788112,6,Korea,1,2,0,1
-788112,6,Australia,0,0,0,0
-788112,7,Korea,0,1,0,0
-788112,7,Australia,0,1,0,1
-788112,8,Korea,0,1,0,1
-788112,8,Australia,1,1,0,2
-788112,9,Korea,1,0,0,1
-788112,9,Australia,0,0,1,1
-788103,1,Dominican Republic,0,0,0,0
-788103,1,Israel,0,0,0,0
-788103,2,Dominican Republic,5,1,0,0
-788103,2,Israel,0,0,0,0
-788103,3,Dominican Republic,0,0,0,0
-788103,3,Israel,0,0,0,0
-788103,4,Dominican Republic,1,2,0,0
-788103,4,Israel,1,1,0,0
-788103,5,Dominican Republic,0,0,0,0
-788103,5,Israel,0,0,0,0
-788103,6,Dominican Republic,0,0,0,0
-788103,6,Israel,0,0,0,0
-788103,7,Dominican Republic,2,2,0,2
-788103,7,Israel,0,1,0,2
-788103,8,Dominican Republic,1,1,0,2
-788103,8,Israel,0,0,0,0
-788103,9,Dominican Republic,1,1,0,1
-788103,9,Israel,0,0,0,0
-788133,1,Colombia,0,0,0,0
-788133,1,Panama,0,0,0,0
-788133,2,Colombia,0,0,0,0
-788133,2,Panama,0,0,0,0
-788133,3,Colombia,0,1,0,1
-788133,3,Panama,0,0,0,1
-788133,4,Colombia,0,0,0,0
-788133,4,Panama,0,0,0,0
-788133,5,Colombia,0,0,0,2
-788133,5,Panama,0,0,0,1
-788133,6,Colombia,4,3,1,1
-788133,6,Panama,1,1,0,1
-788133,7,Colombia,0,0,0,0
-788133,7,Panama,0,1,0,2
-788133,8,Colombia,0,0,0,0
-788133,8,Panama,2,4,0,2
-788133,9,Colombia,0,0,0,0
-788133,9,Panama,0,1,0,1
-788123,1,Brazil,0,0,0,2
-788123,1,Great Britain,0,0,0,0
-788123,2,Brazil,0,0,0,0
-788123,2,Great Britain,0,1,0,2
-788123,3,Brazil,0,0,0,0
-788123,3,Great Britain,0,0,0,0
-788123,4,Brazil,0,0,0,0
-788123,4,Great Britain,0,1,0,1
-788123,5,Brazil,1,1,0,1
-788123,5,Great Britain,3,3,0,1
-788123,6,Brazil,0,0,1,0
-788123,6,Great Britain,1,0,0,2
-788123,7,Brazil,0,0,0,0
-788123,7,Great Britain,2,2,0,1
-788123,8,Brazil,0,0,0,1
-788123,8,Great Britain,2,1,0,1
-788123,9,Brazil,0,0,0,0
-788123,9,Great Britain,0,0,0,0
-788131,1,Cuba,0,0,0,1
-788131,1,Puerto Rico,0,1,0,1
-788131,2,Cuba,0,0,0,0
-788131,2,Puerto Rico,3,3,0,3
-788131,3,Cuba,0,1,0,2
-788131,3,Puerto Rico,0,0,0,0
-788131,4,Cuba,0,0,0,1
-788131,4,Puerto Rico,0,0,0,0
-788131,5,Cuba,0,0,0,0
-788131,5,Puerto Rico,1,1,0,0
-788131,6,Cuba,1,1,1,1
-788131,6,Puerto Rico,0,0,1,1
-788131,7,Cuba,0,0,0,1
-788131,7,Puerto Rico,0,1,0,2
-788131,8,Cuba,0,0,0,1
-788131,8,Puerto Rico,0,0,0,1
-788131,9,Cuba,0,0,0,0
-788131,9,Puerto Rico,0,0,0,0
-788099,1,Venezuela,1,0,0,0
-788099,1,Nicaragua,0,2,1,1
-788099,2,Venezuela,0,0,0,0
-788099,2,Nicaragua,0,0,0,0
-788099,3,Venezuela,1,1,0,0
-788099,3,Nicaragua,0,0,0,0
-788099,4,Venezuela,0,0,0,0
-788099,4,Nicaragua,0,3,0,2
-788099,5,Venezuela,1,1,0,2
-788099,5,Nicaragua,0,0,1,0
-788099,6,Venezuela,1,1,0,1
-788099,6,Nicaragua,0,0,1,0
-788099,7,Venezuela,0,2,0,1
-788099,7,Nicaragua,0,1,0,2
-788099,8,Venezuela,0,0,0,0
-788099,8,Nicaragua,0,0,0,0
-788099,9,Venezuela,0,0,0,0
-788099,9,Nicaragua,0,1,0,1
-788122,1,Mexico,0,0,0,0
-788122,1,United States,0,1,0,3
-788122,2,Mexico,0,0,0,0
-788122,2,United States,0,1,0,1
-788122,3,Mexico,0,1,0,1
-788122,3,United States,5,4,1,0
-788122,4,Mexico,0,0,0,1
-788122,4,United States,0,1,0,2
-788122,5,Mexico,0,0,0,0
-788122,5,United States,0,0,0,1
-788122,6,Mexico,2,4,0,2
-788122,6,United States,0,0,0,1
-788122,7,Mexico,0,0,1,0
-788122,7,United States,0,0,0,1
-788122,8,Mexico,1,1,0,0
-788122,8,United States,0,1,0,2
-788122,9,Mexico,0,1,0,1
-788122,9,United States,0,0,0,0
-788111,1,Czechia,0,1,0,1
-788111,1,Japan,0,1,0,1
-788111,2,Czechia,0,0,0,0
-788111,2,Japan,0,1,0,0
-788111,3,Czechia,0,1,0,1
-788111,3,Japan,0,1,0,1
-788111,4,Czechia,0,0,0,0
-788111,4,Japan,0,2,0,2
-788111,5,Czechia,0,0,0,0
-788111,5,Japan,0,1,0,1
-788111,6,Czechia,0,0,1,0
-788111,6,Japan,0,0,0,1
-788111,7,Czechia,0,0,0,0
-788111,7,Japan,0,1,0,1
-788111,8,Czechia,0,0,1,0
-788111,8,Japan,9,5,0,1
-788111,9,Czechia,0,0,0,0
-788111,9,Japan,0,0,0,0
-788102,1,Israel,0,0,0,0
-788102,1,Kingdom of the Netherlands,2,1,0,1
-788102,2,Israel,1,1,0,1
-788102,2,Kingdom of the Netherlands,0,0,0,0
-788102,3,Israel,0,1,0,1
-788102,3,Kingdom of the Netherlands,0,0,0,0
-788102,4,Israel,0,0,0,0
-788102,4,Kingdom of the Netherlands,0,0,0,0
-788102,5,Israel,0,0,0,0
-788102,5,Kingdom of the Netherlands,0,0,0,2
-788102,6,Israel,5,4,0,1
-788102,6,Kingdom of the Netherlands,0,1,1,0
-788102,7,Israel,0,0,0,0
-788102,7,Kingdom of the Netherlands,0,0,0,1
-788102,8,Israel,0,1,0,1
-788102,8,Kingdom of the Netherlands,0,1,0,2
-788102,9,Israel,0,1,0,1
-788102,9,Kingdom of the Netherlands,0,0,0,3
-788132,1,Canada,0,0,0,0
-788132,1,Puerto Rico,1,1,0,1
-788132,2,Canada,0,0,0,0
-788132,2,Puerto Rico,0,0,0,0
-788132,3,Canada,2,2,0,3
-788132,3,Puerto Rico,0,0,0,0
-788132,4,Canada,1,2,0,0
-788132,4,Puerto Rico,1,2,0,1
-788132,5,Canada,0,0,0,0
-788132,5,Puerto Rico,0,1,0,1
-788132,6,Canada,0,0,0,2
-788132,6,Puerto Rico,0,1,0,1
-788132,7,Canada,0,0,0,0
-788132,7,Puerto Rico,0,0,0,0
-788132,8,Canada,0,0,0,0
-788132,8,Puerto Rico,0,0,0,0
-788132,9,Canada,0,1,0,3
-788132,9,Puerto Rico,0,0,0,0
-788119,1,Italy,0,0,0,0
-788119,1,United States,0,0,0,1
-788119,2,Italy,3,2,0,0
-788119,2,United States,0,0,0,0
-788119,3,Italy,0,0,0,2
-788119,3,United States,0,1,1,1
-788119,4,Italy,2,1,0,0
-788119,4,United States,0,1,0,1
-788119,5,Italy,0,0,0,0
-788119,5,United States,0,0,0,0
-788119,6,Italy,3,1,0,0
-788119,6,United States,1,1,1,0
-788119,7,Italy,0,0,0,0
-788119,7,United States,3,3,0,0
-788119,8,Italy,0,2,0,3
-788119,8,United States,1,3,0,2
-788119,9,Italy,0,0,0,0
-788119,9,United States,1,2,0,1
-788130,1,Canada,0,1,0,3
-788130,1,Cuba,0,1,1,1
-788130,2,Canada,0,0,0,1
-788130,2,Cuba,0,0,0,0
-788130,3,Canada,1,2,0,1
-788130,3,Cuba,0,0,0,0
-788130,4,Canada,0,1,0,1
-788130,4,Cuba,0,1,0,0
-788130,5,Canada,1,1,1,0
-788130,5,Cuba,1,0,0,0
-788130,6,Canada,3,2,0,1
-788130,6,Cuba,1,2,2,3
-788130,7,Canada,0,0,1,1
-788130,7,Cuba,0,1,0,2
-788130,8,Canada,1,2,0,1
-788130,8,Cuba,0,0,0,0
-788130,9,Canada,1,2,0,0
-788130,9,Cuba,0,0,0,0
-788121,1,Italy,0,0,0,0
-788121,1,Mexico,0,1,0,1
-788121,2,Italy,1,1,0,0
-788121,2,Mexico,0,1,0,0
-788121,3,Italy,0,1,0,0
-788121,3,Mexico,0,1,0,0
-788121,4,Italy,1,1,0,0
-788121,4,Mexico,0,1,0,1
-788121,5,Italy,3,2,0,1
-788121,5,Mexico,0,0,0,0
-788121,6,Italy,1,1,0,0
-788121,6,Mexico,0,0,0,2
-788121,7,Italy,1,1,0,1
-788121,7,Mexico,1,1,1,2
-788121,8,Italy,2,3,0,1
-788121,8,Mexico,0,0,0,3
-788121,9,Italy,0,0,0,2
-788121,9,Mexico,0,0,0,1
-788101,1,Dominican Republic,2,2,0,1
-788101,1,Venezuela,1,2,0,2
-788101,2,Dominican Republic,0,0,0,0
-788101,2,Venezuela,0,1,0,0
-788101,3,Dominican Republic,2,2,0,0
-788101,3,Venezuela,2,2,0,1
-788101,4,Dominican Republic,3,2,0,0
-788101,4,Venezuela,0,0,0,1
-788101,5,Dominican Republic,0,0,0,0
-788101,5,Venezuela,0,1,0,1
-788101,6,Dominican Republic,0,1,0,1
-788101,6,Venezuela,0,0,0,1
-788101,7,Dominican Republic,0,2,0,2
-788101,7,Venezuela,0,1,0,2
-788101,8,Dominican Republic,0,0,0,1
-788101,8,Venezuela,0,0,0,0
-788101,9,Dominican Republic,0,2,1,2
-788101,9,Venezuela,2,0,0,1
-788095,1,Korea,0,0,0,0
-788095,1,Dominican Republic,0,0,0,0
-788095,2,Korea,0,0,0,0
-788095,2,Dominican Republic,3,3,0,2
-788095,3,Korea,0,0,0,1
-788095,3,Dominican Republic,4,4,0,3
-788095,4,Korea,0,2,0,1
-788095,4,Dominican Republic,0,0,0,0
-788095,5,Korea,0,0,0,0
-788095,5,Dominican Republic,0,0,0,0
-788095,6,Korea,0,0,0,0
-788095,6,Dominican Republic,0,0,0,0
-788095,7,Korea,0,0,0,0
-788095,7,Dominican Republic,3,2,1,0
-788095,8,Korea,0,0,0,0
-788095,8,Dominican Republic,0,0,0,0
-788095,9,Korea,0,0,0,0
-788095,9,Dominican Republic,0,0,0,0
-788100,1,United States,1,1,0,1
-788100,1,Canada,0,2,0,2
-788100,2,United States,0,0,0,0
-788100,2,Canada,0,1,0,1
-788100,3,United States,2,3,0,2
-788100,3,Canada,0,0,1,0
-788100,4,United States,0,1,0,1
-788100,4,Canada,0,1,0,1
-788100,5,United States,0,0,0,0
-788100,5,Canada,0,0,0,1
-788100,6,United States,2,3,0,1
-788100,6,Canada,3,2,0,0
-788100,7,United States,0,0,0,0
-788100,7,Canada,0,2,0,2
-788100,8,United States,0,0,0,0
-788100,8,Canada,0,0,0,0
-788100,9,United States,0,0,0,1
-788100,9,Canada,0,0,0,0
-788098,1,Puerto Rico,1,1,0,0
-788098,1,Italy,4,3,0,2
-788098,2,Puerto Rico,1,0,0,3
-788098,2,Italy,0,2,0,3
-788098,3,Puerto Rico,0,0,0,0
-788098,3,Italy,0,1,0,1
-788098,4,Puerto Rico,0,1,0,1
-788098,4,Italy,4,2,0,1
-788098,5,Puerto Rico,0,1,0,1
-788098,5,Italy,0,0,0,0
-788098,6,Puerto Rico,0,0,0,0
-788098,6,Italy,0,0,0,0
-788098,7,Puerto Rico,0,0,0,2
-788098,7,Italy,0,0,1,0
-788098,8,Puerto Rico,4,3,0,2
-788098,8,Italy,0,0,0,2
-788098,9,Puerto Rico,0,1,0,1
-788098,9,Italy,0,0,0,0
-788097,1,Venezuela,1,1,0,0
-788097,1,Japan,1,1,0,0
-788097,2,Venezuela,1,2,0,2
-788097,2,Japan,0,0,0,0
-788097,3,Venezuela,0,1,0,1
-788097,3,Japan,4,3,0,1
-788097,4,Venezuela,0,0,0,0
-788097,4,Japan,0,1,0,2
-788097,5,Venezuela,2,1,0,0
-788097,5,Japan,0,0,0,0
-788097,6,Venezuela,3,3,0,0
-788097,6,Japan,0,0,0,0
-788097,7,Venezuela,0,0,0,0
-788097,7,Japan,0,0,0,0
-788097,8,Venezuela,1,1,0,0
-788097,8,Japan,0,2,1,2
-788097,9,Venezuela,0,1,0,1
-788097,9,Japan,0,0,0,0
-788096,1,United States,0,1,0,2
-788096,1,Dominican Republic,0,0,0,0
-788096,2,United States,0,1,0,0
-788096,2,Dominican Republic,1,1,0,0
-788096,3,United States,0,2,0,2
-788096,3,Dominican Republic,0,1,0,1
-788096,4,United States,2,2,0,1
-788096,4,Dominican Republic,0,2,1,3
-788096,5,United States,0,1,0,1
-788096,5,Dominican Republic,0,2,0,1
-788096,6,United States,0,0,0,0
-788096,6,Dominican Republic,0,0,0,0
-788096,7,United States,0,0,0,0
-788096,7,Dominican Republic,0,2,0,2
-788096,8,United States,0,0,0,0
-788096,8,Dominican Republic,0,0,0,0
-788096,9,United States,0,0,0,0
-788096,9,Dominican Republic,0,0,0,1
-788093,1,Venezuela,0,1,0,0
-788093,1,Italy,0,1,0,0
-788093,2,Venezuela,0,1,0,1
-788093,2,Italy,2,1,0,2
-788093,3,Venezuela,0,0,0,1
-788093,3,Italy,0,0,0,1
-788093,4,Venezuela,1,2,0,1
-788093,4,Italy,0,1,0,1
-788093,5,Venezuela,0,0,0,1
-788093,5,Italy,0,0,0,1
-788093,6,Venezuela,0,0,0,0
-788093,6,Italy,0,2,0,3
-788093,7,Venezuela,3,4,0,2
-788093,7,Italy,0,0,0,0
-788093,8,Venezuela,0,0,0,0
-788093,8,Italy,0,0,0,0
-788093,9,Venezuela,0,0,0,0
-788093,9,Italy,0,0,0,0
-788094,1,Venezuela,0,1,0,0
-788094,1,United States,0,0,0,0
-788094,2,Venezuela,0,1,0,1
-788094,2,United States,0,0,0,0
-788094,3,Venezuela,1,1,0,1
-788094,3,United States,0,1,0,1
-788094,4,Venezuela,0,0,0,0
-788094,4,United States,0,0,0,1
-788094,5,Venezuela,1,1,0,0
-788094,5,United States,0,0,0,0
-788094,6,Venezuela,0,0,0,0
-788094,6,United States,0,1,0,1
-788094,7,Venezuela,0,1,0,1
-788094,7,United States,0,0,0,1
-788094,8,Venezuela,0,0,0,0
-788094,8,United States,2,1,0,0
-788094,9,Venezuela,1,1,0,2
-788094,9,United States,0,0,0,0
+試合ID,イニング,攻撃チーム,得点,安打数,失策,残塁,累積得点,得点差
+788120,1,Chinese Taipei,0,0,0,1,0,0
+788120,1,Australia,0,1,0,1,0,0
+788120,2,Chinese Taipei,0,0,0,0,0,0
+788120,2,Australia,0,0,0,0,0,0
+788120,3,Chinese Taipei,0,0,0,0,0,0
+788120,3,Australia,0,1,0,1,0,0
+788120,4,Chinese Taipei,0,1,0,1,0,0
+788120,4,Australia,0,0,0,0,0,0
+788120,5,Chinese Taipei,0,0,0,0,0,0
+788120,5,Australia,2,1,0,1,2,2
+788120,6,Chinese Taipei,0,1,0,2,0,-2
+788120,6,Australia,0,1,0,3,2,2
+788120,7,Chinese Taipei,0,0,0,0,0,-2
+788120,7,Australia,1,2,0,1,3,3
+788120,8,Chinese Taipei,0,0,0,1,0,-3
+788120,8,Australia,0,1,0,1,3,3
+788120,9,Chinese Taipei,0,1,0,2,0,-3
+788120,9,Australia,0,0,1,0,3,3
+788115,1,Czechia,0,1,0,0,0,0
+788115,1,Korea,4,2,0,0,4,4
+788115,2,Czechia,0,2,0,3,0,-4
+788115,2,Korea,1,2,0,2,5,5
+788115,3,Czechia,0,1,0,0,0,-5
+788115,3,Korea,1,1,0,0,6,6
+788115,4,Czechia,0,2,0,2,0,-6
+788115,4,Korea,0,0,0,1,6,6
+788115,5,Czechia,3,2,0,0,3,-3
+788115,5,Korea,2,1,0,1,8,5
+788115,6,Czechia,0,0,0,1,3,-5
+788115,6,Korea,0,0,0,0,8,5
+788115,7,Czechia,0,0,1,0,3,-5
+788115,7,Korea,2,2,0,0,10,7
+788115,8,Czechia,0,0,0,0,3,-7
+788115,8,Korea,1,2,0,1,11,8
+788115,9,Czechia,1,1,0,1,4,-7
+788115,9,Korea,0,0,0,0,11,7
+788116,1,Australia,0,0,0,0,0,0
+788116,1,Czechia,0,0,0,0,0,0
+788116,2,Australia,0,0,0,0,0,0
+788116,2,Czechia,1,1,0,1,1,1
+788116,3,Australia,3,2,0,0,3,2
+788116,3,Czechia,0,1,0,1,1,-2
+788116,4,Australia,0,1,0,1,3,2
+788116,4,Czechia,0,1,0,1,1,-2
+788116,5,Australia,0,0,0,0,3,2
+788116,5,Czechia,0,0,0,0,1,-2
+788116,6,Australia,0,1,0,1,3,2
+788116,6,Czechia,0,0,0,0,1,-2
+788116,7,Australia,0,0,1,0,3,2
+788116,7,Czechia,0,1,0,1,1,-2
+788116,8,Australia,0,1,0,1,3,2
+788116,8,Czechia,0,0,0,0,1,-2
+788116,9,Australia,2,4,0,2,5,4
+788116,9,Czechia,0,0,0,1,1,-4
+788114,1,Japan,0,1,0,2,0,0
+788114,1,Chinese Taipei,0,0,0,0,0,0
+788114,2,Japan,10,7,0,2,10,10
+788114,2,Chinese Taipei,0,0,0,0,0,-10
+788114,3,Japan,3,4,1,1,13,13
+788114,3,Chinese Taipei,0,0,0,3,0,-13
+788114,4,Japan,0,0,0,0,13,13
+788114,4,Chinese Taipei,0,0,0,1,0,-13
+788114,5,Japan,0,0,0,0,13,13
+788114,5,Chinese Taipei,0,0,0,2,0,-13
+788114,6,Japan,0,1,0,0,13,13
+788114,6,Chinese Taipei,0,1,0,1,0,-13
+788114,7,Japan,0,0,0,2,13,13
+788114,7,Chinese Taipei,0,0,0,0,0,-13
+788139,1,Cuba,0,1,1,1,0,0
+788139,1,Panama,0,0,0,1,0,0
+788139,2,Cuba,1,1,0,0,1,1
+788139,2,Panama,0,0,0,0,0,-1
+788139,3,Cuba,2,3,0,1,3,3
+788139,3,Panama,0,1,0,1,0,-3
+788139,4,Cuba,0,0,0,0,3,3
+788139,4,Panama,0,1,0,2,0,-3
+788139,5,Cuba,0,0,0,1,3,3
+788139,5,Panama,0,0,0,0,0,-3
+788139,6,Cuba,0,0,0,0,3,3
+788139,6,Panama,0,0,0,0,0,-3
+788139,7,Cuba,0,0,0,0,3,3
+788139,7,Panama,1,2,0,1,1,-2
+788139,8,Cuba,0,0,0,0,3,2
+788139,8,Panama,0,1,0,1,1,-2
+788139,9,Cuba,0,0,0,0,3,2
+788139,9,Panama,0,0,0,0,1,-2
+788110,1,Kingdom of the Netherlands,0,1,0,1,0,0
+788110,1,Venezuela,1,3,0,2,1,1
+788110,2,Kingdom of the Netherlands,1,2,0,2,1,0
+788110,2,Venezuela,1,1,0,0,2,1
+788110,3,Kingdom of the Netherlands,0,0,0,0,1,-1
+788110,3,Venezuela,0,0,0,0,2,1
+788110,4,Kingdom of the Netherlands,0,0,1,1,1,-1
+788110,4,Venezuela,0,1,0,1,2,1
+788110,5,Kingdom of the Netherlands,0,1,0,2,1,-1
+788110,5,Venezuela,4,3,0,2,6,5
+788110,6,Kingdom of the Netherlands,1,0,0,2,2,-4
+788110,6,Venezuela,0,0,0,0,6,4
+788110,7,Kingdom of the Netherlands,0,0,0,0,2,-4
+788110,7,Venezuela,0,1,0,1,6,4
+788110,8,Kingdom of the Netherlands,0,0,0,1,2,-4
+788110,8,Venezuela,0,2,0,1,6,4
+788110,9,Kingdom of the Netherlands,0,0,0,1,2,-4
+788110,9,Venezuela,0,0,0,0,6,4
+788129,1,Mexico,0,1,0,1,0,0
+788129,1,Great Britain,0,2,0,2,0,0
+788129,2,Mexico,1,1,0,0,1,1
+788129,2,Great Britain,0,0,0,0,0,-1
+788129,3,Mexico,0,0,0,0,1,1
+788129,3,Great Britain,0,0,0,0,0,-1
+788129,4,Mexico,0,0,0,0,1,1
+788129,4,Great Britain,0,0,0,0,0,-1
+788129,5,Mexico,0,0,0,0,1,1
+788129,5,Great Britain,0,2,0,2,0,-1
+788129,6,Mexico,0,0,0,2,1,1
+788129,6,Great Britain,1,2,0,2,1,0
+788129,7,Mexico,0,0,0,0,1,0
+788129,7,Great Britain,0,0,0,0,1,0
+788129,8,Mexico,3,1,0,0,4,3
+788129,8,Great Britain,0,0,0,2,1,-3
+788129,9,Mexico,4,3,0,1,8,7
+788129,9,Great Britain,1,2,0,1,2,-6
+788136,1,Puerto Rico,0,0,0,0,0,0
+788136,1,Colombia,0,0,0,0,0,0
+788136,2,Puerto Rico,0,0,0,0,0,0
+788136,2,Colombia,0,1,0,2,0,0
+788136,3,Puerto Rico,0,0,0,0,0,0
+788136,3,Colombia,0,0,0,1,0,0
+788136,4,Puerto Rico,0,0,0,0,0,0
+788136,4,Colombia,0,2,0,1,0,0
+788136,5,Puerto Rico,5,5,0,1,5,5
+788136,5,Colombia,0,0,1,2,0,-5
+788136,6,Puerto Rico,0,0,0,0,5,5
+788136,6,Colombia,0,0,0,1,0,-5
+788136,7,Puerto Rico,0,0,0,3,5,5
+788136,7,Colombia,0,0,0,0,0,-5
+788136,8,Puerto Rico,0,0,0,0,5,5
+788136,8,Colombia,0,2,0,3,0,-5
+788136,9,Puerto Rico,0,0,0,0,5,5
+788136,9,Colombia,0,1,0,1,0,-5
+788105,1,Nicaragua,1,2,0,3,1,1
+788105,1,Dominican Republic,2,3,0,1,2,1
+788105,2,Nicaragua,2,4,1,2,3,1
+788105,2,Dominican Republic,0,0,1,2,2,-1
+788105,3,Nicaragua,0,0,0,0,3,1
+788105,3,Dominican Republic,1,3,0,1,3,0
+788105,4,Nicaragua,0,0,0,0,3,0
+788105,4,Dominican Republic,0,0,0,0,3,0
+788105,5,Nicaragua,0,0,0,0,3,0
+788105,5,Dominican Republic,0,0,0,0,3,0
+788105,6,Nicaragua,0,1,0,1,3,0
+788105,6,Dominican Republic,2,2,0,0,5,2
+788105,7,Nicaragua,0,0,0,1,3,-2
+788105,7,Dominican Republic,1,1,0,2,6,3
+788105,8,Nicaragua,0,0,0,0,3,-3
+788105,8,Dominican Republic,6,5,0,2,12,9
+788105,9,Nicaragua,0,2,0,2,3,-9
+788105,9,Dominican Republic,0,0,0,0,12,9
+788128,1,United States,2,3,0,2,2,2
+788128,1,Brazil,1,1,0,0,1,-1
+788128,2,United States,0,1,0,2,2,1
+788128,2,Brazil,0,0,0,0,1,-1
+788128,3,United States,1,1,0,2,3,2
+788128,3,Brazil,0,0,0,0,1,-2
+788128,4,United States,0,0,0,0,3,2
+788128,4,Brazil,0,0,0,0,1,-2
+788128,5,United States,4,1,0,2,7,6
+788128,5,Brazil,0,0,0,0,1,-6
+788128,6,United States,0,0,1,2,7,6
+788128,6,Brazil,0,1,0,1,1,-6
+788128,7,United States,0,0,0,0,7,6
+788128,7,Brazil,3,3,0,0,4,-3
+788128,8,United States,1,1,0,2,8,4
+788128,8,Brazil,1,1,0,0,5,-3
+788128,9,United States,7,3,0,1,15,10
+788128,9,Brazil,0,0,0,1,5,-10
+788117,1,Chinese Taipei,2,3,0,1,2,2
+788117,1,Czechia,0,1,1,2,0,-2
+788117,2,Chinese Taipei,4,2,0,0,6,6
+788117,2,Czechia,0,1,0,1,0,-6
+788117,3,Chinese Taipei,0,0,0,1,6,6
+788117,3,Czechia,0,0,0,1,0,-6
+788117,4,Chinese Taipei,2,1,0,1,8,8
+788117,4,Czechia,0,2,0,2,0,-8
+788117,5,Chinese Taipei,1,2,0,2,9,9
+788117,5,Czechia,0,0,0,0,0,-9
+788117,6,Chinese Taipei,5,2,0,1,14,14
+788117,6,Czechia,0,0,0,0,0,-14
+788117,7,Chinese Taipei,0,1,0,1,14,14
+788117,7,Czechia,0,0,0,0,0,-14
+788118,1,Korea,3,4,0,1,3,3
+788118,1,Japan,2,1,0,0,2,-1
+788118,2,Korea,0,0,0,0,3,1
+788118,2,Japan,0,0,0,0,2,-1
+788118,3,Korea,0,2,0,2,3,1
+788118,3,Japan,3,3,0,0,5,2
+788118,4,Korea,2,1,0,0,5,0
+788118,4,Japan,0,0,0,0,5,0
+788118,5,Korea,0,0,0,0,5,0
+788118,5,Japan,0,1,0,1,5,0
+788118,6,Korea,0,0,0,0,5,0
+788118,6,Japan,0,0,0,0,5,0
+788118,7,Korea,0,0,0,0,5,0
+788118,7,Japan,3,1,0,2,8,3
+788118,8,Korea,1,2,0,3,6,-2
+788118,8,Japan,0,1,0,1,8,2
+788118,9,Korea,0,0,0,0,6,-2
+788118,9,Japan,0,0,0,0,8,2
+788138,1,Colombia,0,1,0,0,0,0
+788138,1,Canada,0,0,0,1,0,0
+788138,2,Colombia,0,0,0,0,0,0
+788138,2,Canada,2,2,0,0,2,2
+788138,3,Colombia,1,3,0,2,1,-1
+788138,3,Canada,1,2,0,3,3,2
+788138,4,Colombia,0,0,0,1,1,-2
+788138,4,Canada,0,0,0,0,3,2
+788138,5,Colombia,0,0,0,0,1,-2
+788138,5,Canada,0,0,0,0,3,2
+788138,6,Colombia,0,1,0,1,1,-2
+788138,6,Canada,0,0,0,0,3,2
+788138,7,Colombia,0,0,1,0,1,-2
+788138,7,Canada,1,1,0,1,4,3
+788138,8,Colombia,1,1,1,2,2,-2
+788138,8,Canada,4,3,0,3,8,6
+788138,9,Colombia,0,0,0,0,2,-6
+788138,9,Canada,0,0,1,0,8,6
+788108,1,Nicaragua,0,0,0,1,0,0
+788108,1,Kingdom of the Netherlands,0,1,0,2,0,0
+788108,2,Nicaragua,0,1,0,2,0,0
+788108,2,Kingdom of the Netherlands,0,0,0,0,0,0
+788108,3,Nicaragua,0,1,0,1,0,0
+788108,3,Kingdom of the Netherlands,1,2,1,3,1,1
+788108,4,Nicaragua,0,0,0,1,0,-1
+788108,4,Kingdom of the Netherlands,0,2,0,1,1,1
+788108,5,Nicaragua,1,2,0,3,1,0
+788108,5,Kingdom of the Netherlands,0,0,0,0,1,0
+788108,6,Nicaragua,0,0,0,1,1,0
+788108,6,Kingdom of the Netherlands,0,1,0,3,1,0
+788108,7,Nicaragua,0,3,0,3,1,0
+788108,7,Kingdom of the Netherlands,0,1,0,1,1,0
+788108,8,Nicaragua,2,2,0,1,3,2
+788108,8,Kingdom of the Netherlands,0,0,0,0,1,-2
+788108,9,Nicaragua,0,0,0,1,3,2
+788108,9,Kingdom of the Netherlands,3,3,0,0,4,1
+788126,1,Brazil,0,0,0,0,0,0
+788126,1,Italy,0,1,0,1,0,0
+788126,2,Brazil,0,0,0,0,0,0
+788126,2,Italy,0,0,0,0,0,0
+788126,3,Brazil,0,1,0,1,0,0
+788126,3,Italy,0,1,0,1,0,0
+788126,4,Brazil,0,0,0,0,0,0
+788126,4,Italy,0,0,0,0,0,0
+788126,5,Brazil,0,0,0,0,0,0
+788126,5,Italy,0,2,0,2,0,0
+788126,6,Brazil,0,0,0,0,0,0
+788126,6,Italy,2,2,0,1,2,2
+788126,7,Brazil,0,1,0,1,0,-2
+788126,7,Italy,4,3,0,2,6,6
+788126,8,Brazil,0,1,0,2,0,-6
+788126,8,Italy,2,3,0,2,8,8
+788126,9,Brazil,0,1,0,1,0,-8
+788126,9,Italy,0,0,0,0,8,8
+788137,1,Panama,0,0,0,0,0,0
+788137,1,Puerto Rico,0,0,0,0,0,0
+788137,2,Panama,0,1,0,1,0,0
+788137,2,Puerto Rico,0,1,0,0,0,0
+788137,3,Panama,0,0,0,0,0,0
+788137,3,Puerto Rico,0,1,0,1,0,0
+788137,4,Panama,0,0,0,1,0,0
+788137,4,Puerto Rico,0,0,0,0,0,0
+788137,5,Panama,2,2,0,2,2,2
+788137,5,Puerto Rico,0,1,1,1,0,-2
+788137,6,Panama,0,1,0,1,2,2
+788137,6,Puerto Rico,1,2,0,1,1,-1
+788137,7,Panama,0,0,0,1,2,1
+788137,7,Puerto Rico,0,2,0,2,1,-1
+788137,8,Panama,0,0,0,0,2,1
+788137,8,Puerto Rico,0,0,0,1,1,-1
+788137,9,Panama,0,0,0,0,2,1
+788137,9,Puerto Rico,1,1,0,3,2,0
+788137,10,Panama,1,2,0,1,3,1
+788137,10,Puerto Rico,2,2,0,0,4,1
+788107,1,Israel,0,0,1,0,0,0
+788107,1,Venezuela,4,3,0,0,4,4
+788107,2,Israel,0,0,0,0,0,-4
+788107,2,Venezuela,0,1,0,1,4,4
+788107,3,Israel,0,0,1,0,0,-4
+788107,3,Venezuela,0,0,0,1,4,4
+788107,4,Israel,0,0,0,0,0,-4
+788107,4,Venezuela,0,1,0,1,4,4
+788107,5,Israel,1,2,0,1,1,-3
+788107,5,Venezuela,1,1,0,1,5,4
+788107,6,Israel,1,1,0,0,2,-3
+788107,6,Venezuela,5,3,0,0,10,8
+788107,7,Israel,0,1,0,1,2,-8
+788107,7,Venezuela,0,2,0,2,10,8
+788107,8,Israel,0,0,0,0,2,-8
+788107,8,Venezuela,1,3,0,2,11,9
+788107,9,Israel,1,3,0,2,3,-8
+788107,9,Venezuela,0,0,0,0,11,8
+788127,1,Great Britain,1,1,0,0,1,1
+788127,1,United States,0,0,0,0,0,-1
+788127,2,Great Britain,0,0,0,0,1,1
+788127,2,United States,0,2,0,2,0,-1
+788127,3,Great Britain,0,1,0,1,1,1
+788127,3,United States,0,0,1,0,0,-1
+788127,4,Great Britain,0,0,0,0,1,1
+788127,4,United States,0,0,0,1,0,-1
+788127,5,Great Britain,0,0,2,0,1,1
+788127,5,United States,5,4,0,2,5,4
+788127,6,Great Britain,0,1,0,0,1,-4
+788127,6,United States,3,4,0,3,8,7
+788127,7,Great Britain,0,0,0,0,1,-7
+788127,7,United States,1,1,0,1,9,8
+788127,8,Great Britain,0,0,0,0,1,-8
+788127,8,United States,0,1,0,3,9,8
+788127,9,Great Britain,0,0,0,0,1,-8
+788127,9,United States,0,0,0,0,9,8
+788113,1,Chinese Taipei,0,0,0,0,0,0
+788113,1,Korea,0,0,0,0,0,0
+788113,2,Chinese Taipei,1,1,0,0,1,1
+788113,2,Korea,0,0,0,0,0,-1
+788113,3,Chinese Taipei,0,2,0,2,1,1
+788113,3,Korea,0,1,0,0,0,-1
+788113,4,Chinese Taipei,0,0,0,0,1,1
+788113,4,Korea,0,0,0,0,0,-1
+788113,5,Chinese Taipei,0,0,0,0,1,1
+788113,5,Korea,1,1,0,0,1,0
+788113,6,Chinese Taipei,1,1,0,0,2,1
+788113,6,Korea,2,1,0,0,3,1
+788113,7,Chinese Taipei,0,1,0,1,2,-1
+788113,7,Korea,0,0,0,0,3,1
+788113,8,Chinese Taipei,2,2,0,0,4,1
+788113,8,Korea,1,1,0,1,4,0
+788113,9,Chinese Taipei,0,0,0,0,4,0
+788113,9,Korea,0,0,0,2,4,0
+788113,10,Chinese Taipei,1,0,0,2,5,1
+788113,10,Korea,0,0,0,1,4,-1
+788109,1,Australia,0,2,0,2,0,0
+788109,1,Japan,0,0,0,2,0,0
+788109,2,Australia,0,0,0,0,0,0
+788109,2,Japan,0,1,0,2,0,0
+788109,3,Australia,0,1,0,0,0,0
+788109,3,Japan,0,0,0,0,0,0
+788109,4,Australia,0,1,0,1,0,0
+788109,4,Japan,0,1,0,2,0,0
+788109,5,Australia,0,1,0,1,0,0
+788109,5,Japan,0,0,0,1,0,0
+788109,6,Australia,1,1,0,0,1,1
+788109,6,Japan,0,1,1,2,0,-1
+788109,7,Australia,0,0,0,0,1,1
+788109,7,Japan,2,1,0,0,2,1
+788109,8,Australia,0,0,0,0,1,-1
+788109,8,Japan,2,1,0,2,4,3
+788109,9,Australia,2,2,0,0,3,-1
+788109,9,Japan,0,0,0,0,4,1
+788135,1,Colombia,1,0,0,2,1,1
+788135,1,Cuba,4,2,1,0,4,3
+788135,2,Colombia,0,0,0,1,1,-3
+788135,2,Cuba,0,0,0,0,4,3
+788135,3,Colombia,0,1,0,1,1,-3
+788135,3,Cuba,0,0,0,0,4,3
+788135,4,Colombia,0,0,0,0,1,-3
+788135,4,Cuba,0,2,0,2,4,3
+788135,5,Colombia,0,1,0,2,1,-3
+788135,5,Cuba,0,0,0,0,4,3
+788135,6,Colombia,1,1,1,1,2,-2
+788135,6,Cuba,3,2,0,1,7,5
+788135,7,Colombia,2,2,0,3,4,-3
+788135,7,Cuba,0,0,0,0,7,3
+788135,8,Colombia,0,2,0,1,4,-3
+788135,8,Cuba,0,2,0,2,7,3
+788135,9,Colombia,0,0,0,1,4,-3
+788135,9,Cuba,0,0,0,0,7,3
+788106,1,Kingdom of the Netherlands,0,0,1,0,0,0
+788106,1,Dominican Republic,2,2,0,2,2,2
+788106,2,Kingdom of the Netherlands,1,1,0,0,1,-1
+788106,2,Dominican Republic,0,0,0,0,2,1
+788106,3,Kingdom of the Netherlands,0,1,0,1,1,-1
+788106,3,Dominican Republic,2,1,0,1,4,3
+788106,4,Kingdom of the Netherlands,0,1,0,1,1,-3
+788106,4,Dominican Republic,0,0,0,1,4,3
+788106,5,Kingdom of the Netherlands,0,0,0,0,1,-3
+788106,5,Dominican Republic,6,4,0,2,10,9
+788106,6,Kingdom of the Netherlands,0,1,0,2,1,-9
+788106,6,Dominican Republic,0,0,0,1,10,9
+788106,7,Kingdom of the Netherlands,0,1,0,1,1,-9
+788106,7,Dominican Republic,2,1,0,0,12,11
+788124,1,Great Britain,2,2,0,1,2,2
+788124,1,Italy,0,0,0,0,0,-2
+788124,2,Great Britain,0,0,0,0,2,2
+788124,2,Italy,0,0,0,0,0,-2
+788124,3,Great Britain,0,0,0,0,2,2
+788124,3,Italy,2,2,0,1,2,0
+788124,4,Great Britain,0,1,1,2,2,0
+788124,4,Italy,3,4,0,3,5,3
+788124,5,Great Britain,0,0,1,0,2,-3
+788124,5,Italy,2,1,0,0,7,5
+788124,6,Great Britain,0,0,0,0,2,-5
+788124,6,Italy,0,3,0,2,7,5
+788124,7,Great Britain,0,1,0,1,2,-5
+788124,7,Italy,0,0,0,0,7,5
+788124,8,Great Britain,2,2,0,1,4,-3
+788124,8,Italy,0,2,0,3,7,3
+788124,9,Great Britain,0,1,0,3,4,-3
+788124,9,Italy,0,0,0,0,7,3
+788104,1,Nicaragua,0,0,0,0,0,0
+788104,1,Israel,0,0,0,1,0,0
+788104,2,Nicaragua,0,0,0,0,0,0
+788104,2,Israel,1,2,0,2,1,1
+788104,3,Nicaragua,0,1,0,1,0,-1
+788104,3,Israel,0,0,0,0,1,1
+788104,4,Nicaragua,0,0,0,0,0,-1
+788104,4,Israel,0,0,0,0,1,1
+788104,5,Nicaragua,0,1,0,2,0,-1
+788104,5,Israel,4,5,0,2,5,5
+788104,6,Nicaragua,0,0,0,1,0,-5
+788104,6,Israel,0,1,0,1,5,5
+788104,7,Nicaragua,0,0,0,0,0,-5
+788104,7,Israel,0,0,0,2,5,5
+788104,8,Nicaragua,0,0,0,0,0,-5
+788104,8,Israel,0,0,0,1,5,5
+788104,9,Nicaragua,0,0,0,0,0,-5
+788104,9,Israel,0,0,0,0,5,5
+788134,1,Panama,0,1,0,2,0,0
+788134,1,Canada,0,0,1,1,0,0
+788134,2,Panama,0,0,0,0,0,0
+788134,2,Canada,1,2,0,1,1,1
+788134,3,Panama,0,0,0,0,0,-1
+788134,3,Canada,0,0,0,1,1,1
+788134,4,Panama,1,3,0,2,1,0
+788134,4,Canada,1,3,0,2,2,1
+788134,5,Panama,0,0,0,1,1,-1
+788134,5,Canada,0,1,0,3,2,1
+788134,6,Panama,3,3,0,2,4,2
+788134,6,Canada,0,0,2,0,2,-2
+788134,7,Panama,0,2,0,2,4,2
+788134,7,Canada,0,0,0,0,2,-2
+788134,8,Panama,0,2,0,1,4,2
+788134,8,Canada,1,2,0,1,3,-1
+788134,9,Panama,0,0,0,0,4,1
+788134,9,Canada,0,1,0,1,3,-1
+788125,1,Brazil,0,0,0,1,0,0
+788125,1,Mexico,4,5,0,2,4,4
+788125,2,Brazil,0,0,0,1,0,-4
+788125,2,Mexico,1,1,0,0,5,5
+788125,3,Brazil,0,0,0,0,0,-5
+788125,3,Mexico,0,1,0,0,5,5
+788125,4,Brazil,0,0,0,1,0,-5
+788125,4,Mexico,6,6,0,2,11,11
+788125,5,Brazil,0,1,0,1,0,-11
+788125,5,Mexico,1,1,0,1,12,12
+788125,6,Brazil,0,2,0,2,0,-12
+788125,6,Mexico,4,2,0,0,16,16
+788112,1,Korea,0,0,0,0,0,0
+788112,1,Australia,0,1,0,2,0,0
+788112,2,Korea,2,2,0,2,2,2
+788112,2,Australia,0,1,0,0,0,-2
+788112,3,Korea,2,3,0,1,4,4
+788112,3,Australia,0,0,0,0,0,-4
+788112,4,Korea,0,0,0,0,4,4
+788112,4,Australia,0,0,0,0,0,-4
+788112,5,Korea,1,1,0,1,5,5
+788112,5,Australia,1,1,0,0,1,-4
+788112,6,Korea,1,2,0,1,6,5
+788112,6,Australia,0,0,0,0,1,-5
+788112,7,Korea,0,1,0,0,6,5
+788112,7,Australia,0,1,0,1,1,-5
+788112,8,Korea,0,1,0,1,6,5
+788112,8,Australia,1,1,0,2,2,-4
+788112,9,Korea,1,0,0,1,7,5
+788112,9,Australia,0,0,1,1,2,-5
+788103,1,Dominican Republic,0,0,0,0,0,0
+788103,1,Israel,0,0,0,0,0,0
+788103,2,Dominican Republic,5,1,0,0,5,5
+788103,2,Israel,0,0,0,0,0,-5
+788103,3,Dominican Republic,0,0,0,0,5,5
+788103,3,Israel,0,0,0,0,0,-5
+788103,4,Dominican Republic,1,2,0,0,6,6
+788103,4,Israel,1,1,0,0,1,-5
+788103,5,Dominican Republic,0,0,0,0,6,5
+788103,5,Israel,0,0,0,0,1,-5
+788103,6,Dominican Republic,0,0,0,0,6,5
+788103,6,Israel,0,0,0,0,1,-5
+788103,7,Dominican Republic,2,2,0,2,8,7
+788103,7,Israel,0,1,0,2,1,-7
+788103,8,Dominican Republic,1,1,0,2,9,8
+788103,8,Israel,0,0,0,0,1,-8
+788103,9,Dominican Republic,1,1,0,1,10,9
+788103,9,Israel,0,0,0,0,1,-9
+788133,1,Colombia,0,0,0,0,0,0
+788133,1,Panama,0,0,0,0,0,0
+788133,2,Colombia,0,0,0,0,0,0
+788133,2,Panama,0,0,0,0,0,0
+788133,3,Colombia,0,1,0,1,0,0
+788133,3,Panama,0,0,0,1,0,0
+788133,4,Colombia,0,0,0,0,0,0
+788133,4,Panama,0,0,0,0,0,0
+788133,5,Colombia,0,0,0,2,0,0
+788133,5,Panama,0,0,0,1,0,0
+788133,6,Colombia,4,3,1,1,4,4
+788133,6,Panama,1,1,0,1,1,-3
+788133,7,Colombia,0,0,0,0,4,3
+788133,7,Panama,0,1,0,2,1,-3
+788133,8,Colombia,0,0,0,0,4,3
+788133,8,Panama,2,4,0,2,3,-1
+788133,9,Colombia,0,0,0,0,4,1
+788133,9,Panama,0,1,0,1,3,-1
+788123,1,Brazil,0,0,0,2,0,0
+788123,1,Great Britain,0,0,0,0,0,0
+788123,2,Brazil,0,0,0,0,0,0
+788123,2,Great Britain,0,1,0,2,0,0
+788123,3,Brazil,0,0,0,0,0,0
+788123,3,Great Britain,0,0,0,0,0,0
+788123,4,Brazil,0,0,0,0,0,0
+788123,4,Great Britain,0,1,0,1,0,0
+788123,5,Brazil,1,1,0,1,1,1
+788123,5,Great Britain,3,3,0,1,3,2
+788123,6,Brazil,0,0,1,0,1,-2
+788123,6,Great Britain,1,0,0,2,4,3
+788123,7,Brazil,0,0,0,0,1,-3
+788123,7,Great Britain,2,2,0,1,6,5
+788123,8,Brazil,0,0,0,1,1,-5
+788123,8,Great Britain,2,1,0,1,8,7
+788123,9,Brazil,0,0,0,0,1,-7
+788123,9,Great Britain,0,0,0,0,8,7
+788131,1,Cuba,0,0,0,1,0,0
+788131,1,Puerto Rico,0,1,0,1,0,0
+788131,2,Cuba,0,0,0,0,0,0
+788131,2,Puerto Rico,3,3,0,3,3,3
+788131,3,Cuba,0,1,0,2,0,-3
+788131,3,Puerto Rico,0,0,0,0,3,3
+788131,4,Cuba,0,0,0,1,0,-3
+788131,4,Puerto Rico,0,0,0,0,3,3
+788131,5,Cuba,0,0,0,0,0,-3
+788131,5,Puerto Rico,1,1,0,0,4,4
+788131,6,Cuba,1,1,1,1,1,-3
+788131,6,Puerto Rico,0,0,1,1,4,3
+788131,7,Cuba,0,0,0,1,1,-3
+788131,7,Puerto Rico,0,1,0,2,4,3
+788131,8,Cuba,0,0,0,1,1,-3
+788131,8,Puerto Rico,0,0,0,1,4,3
+788131,9,Cuba,0,0,0,0,1,-3
+788131,9,Puerto Rico,0,0,0,0,4,3
+788099,1,Venezuela,1,0,0,0,1,1
+788099,1,Nicaragua,0,2,1,1,0,-1
+788099,2,Venezuela,0,0,0,0,1,1
+788099,2,Nicaragua,0,0,0,0,0,-1
+788099,3,Venezuela,1,1,0,0,2,2
+788099,3,Nicaragua,0,0,0,0,0,-2
+788099,4,Venezuela,0,0,0,0,2,2
+788099,4,Nicaragua,0,3,0,2,0,-2
+788099,5,Venezuela,1,1,0,2,3,3
+788099,5,Nicaragua,0,0,1,0,0,-3
+788099,6,Venezuela,1,1,0,1,4,4
+788099,6,Nicaragua,0,0,1,0,0,-4
+788099,7,Venezuela,0,2,0,1,4,4
+788099,7,Nicaragua,0,1,0,2,0,-4
+788099,8,Venezuela,0,0,0,0,4,4
+788099,8,Nicaragua,0,0,0,0,0,-4
+788099,9,Venezuela,0,0,0,0,4,4
+788099,9,Nicaragua,0,1,0,1,0,-4
+788122,1,Mexico,0,0,0,0,0,0
+788122,1,United States,0,1,0,3,0,0
+788122,2,Mexico,0,0,0,0,0,0
+788122,2,United States,0,1,0,1,0,0
+788122,3,Mexico,0,1,0,1,0,0
+788122,3,United States,5,4,1,0,5,5
+788122,4,Mexico,0,0,0,1,0,-5
+788122,4,United States,0,1,0,2,5,5
+788122,5,Mexico,0,0,0,0,0,-5
+788122,5,United States,0,0,0,1,5,5
+788122,6,Mexico,2,4,0,2,2,-3
+788122,6,United States,0,0,0,1,5,3
+788122,7,Mexico,0,0,1,0,2,-3
+788122,7,United States,0,0,0,1,5,3
+788122,8,Mexico,1,1,0,0,3,-2
+788122,8,United States,0,1,0,2,5,2
+788122,9,Mexico,0,1,0,1,3,-2
+788122,9,United States,0,0,0,0,5,2
+788111,1,Czechia,0,1,0,1,0,0
+788111,1,Japan,0,1,0,1,0,0
+788111,2,Czechia,0,0,0,0,0,0
+788111,2,Japan,0,1,0,0,0,0
+788111,3,Czechia,0,1,0,1,0,0
+788111,3,Japan,0,1,0,1,0,0
+788111,4,Czechia,0,0,0,0,0,0
+788111,4,Japan,0,2,0,2,0,0
+788111,5,Czechia,0,0,0,0,0,0
+788111,5,Japan,0,1,0,1,0,0
+788111,6,Czechia,0,0,1,0,0,0
+788111,6,Japan,0,0,0,1,0,0
+788111,7,Czechia,0,0,0,0,0,0
+788111,7,Japan,0,1,0,1,0,0
+788111,8,Czechia,0,0,1,0,0,0
+788111,8,Japan,9,5,0,1,9,9
+788111,9,Czechia,0,0,0,0,0,-9
+788111,9,Japan,0,0,0,0,9,9
+788102,1,Israel,0,0,0,0,0,0
+788102,1,Kingdom of the Netherlands,2,1,0,1,2,2
+788102,2,Israel,1,1,0,1,1,-1
+788102,2,Kingdom of the Netherlands,0,0,0,0,2,1
+788102,3,Israel,0,1,0,1,1,-1
+788102,3,Kingdom of the Netherlands,0,0,0,0,2,1
+788102,4,Israel,0,0,0,0,1,-1
+788102,4,Kingdom of the Netherlands,0,0,0,0,2,1
+788102,5,Israel,0,0,0,0,1,-1
+788102,5,Kingdom of the Netherlands,0,0,0,2,2,1
+788102,6,Israel,5,4,0,1,6,4
+788102,6,Kingdom of the Netherlands,0,1,1,0,2,-4
+788102,7,Israel,0,0,0,0,6,4
+788102,7,Kingdom of the Netherlands,0,0,0,1,2,-4
+788102,8,Israel,0,1,0,1,6,4
+788102,8,Kingdom of the Netherlands,0,1,0,2,2,-4
+788102,9,Israel,0,1,0,1,6,4
+788102,9,Kingdom of the Netherlands,0,0,0,3,2,-4
+788132,1,Canada,0,0,0,0,0,0
+788132,1,Puerto Rico,1,1,0,1,1,1
+788132,2,Canada,0,0,0,0,0,-1
+788132,2,Puerto Rico,0,0,0,0,1,1
+788132,3,Canada,2,2,0,3,2,1
+788132,3,Puerto Rico,0,0,0,0,1,-1
+788132,4,Canada,1,2,0,0,3,2
+788132,4,Puerto Rico,1,2,0,1,2,-1
+788132,5,Canada,0,0,0,0,3,1
+788132,5,Puerto Rico,0,1,0,1,2,-1
+788132,6,Canada,0,0,0,2,3,1
+788132,6,Puerto Rico,0,1,0,1,2,-1
+788132,7,Canada,0,0,0,0,3,1
+788132,7,Puerto Rico,0,0,0,0,2,-1
+788132,8,Canada,0,0,0,0,3,1
+788132,8,Puerto Rico,0,0,0,0,2,-1
+788132,9,Canada,0,1,0,3,3,1
+788132,9,Puerto Rico,0,0,0,0,2,-1
+788119,1,Italy,0,0,0,0,0,0
+788119,1,United States,0,0,0,1,0,0
+788119,2,Italy,3,2,0,0,3,3
+788119,2,United States,0,0,0,0,0,-3
+788119,3,Italy,0,0,0,2,3,3
+788119,3,United States,0,1,1,1,0,-3
+788119,4,Italy,2,1,0,0,5,5
+788119,4,United States,0,1,0,1,0,-5
+788119,5,Italy,0,0,0,0,5,5
+788119,5,United States,0,0,0,0,0,-5
+788119,6,Italy,3,1,0,0,8,8
+788119,6,United States,1,1,1,0,1,-7
+788119,7,Italy,0,0,0,0,8,7
+788119,7,United States,3,3,0,0,4,-4
+788119,8,Italy,0,2,0,3,8,4
+788119,8,United States,1,3,0,2,5,-3
+788119,9,Italy,0,0,0,0,8,3
+788119,9,United States,1,2,0,1,6,-2
+788130,1,Canada,0,1,0,3,0,0
+788130,1,Cuba,0,1,1,1,0,0
+788130,2,Canada,0,0,0,1,0,0
+788130,2,Cuba,0,0,0,0,0,0
+788130,3,Canada,1,2,0,1,1,1
+788130,3,Cuba,0,0,0,0,0,-1
+788130,4,Canada,0,1,0,1,1,1
+788130,4,Cuba,0,1,0,0,0,-1
+788130,5,Canada,1,1,1,0,2,2
+788130,5,Cuba,1,0,0,0,1,-1
+788130,6,Canada,3,2,0,1,5,4
+788130,6,Cuba,1,2,2,3,2,-3
+788130,7,Canada,0,0,1,1,5,3
+788130,7,Cuba,0,1,0,2,2,-3
+788130,8,Canada,1,2,0,1,6,4
+788130,8,Cuba,0,0,0,0,2,-4
+788130,9,Canada,1,2,0,0,7,5
+788130,9,Cuba,0,0,0,0,2,-5
+788121,1,Italy,0,0,0,0,0,0
+788121,1,Mexico,0,1,0,1,0,0
+788121,2,Italy,1,1,0,0,1,1
+788121,2,Mexico,0,1,0,0,0,-1
+788121,3,Italy,0,1,0,0,1,1
+788121,3,Mexico,0,1,0,0,0,-1
+788121,4,Italy,1,1,0,0,2,2
+788121,4,Mexico,0,1,0,1,0,-2
+788121,5,Italy,3,2,0,1,5,5
+788121,5,Mexico,0,0,0,0,0,-5
+788121,6,Italy,1,1,0,0,6,6
+788121,6,Mexico,0,0,0,2,0,-6
+788121,7,Italy,1,1,0,1,7,7
+788121,7,Mexico,1,1,1,2,1,-6
+788121,8,Italy,2,3,0,1,9,8
+788121,8,Mexico,0,0,0,3,1,-8
+788121,9,Italy,0,0,0,2,9,8
+788121,9,Mexico,0,0,0,1,1,-8
+788101,1,Dominican Republic,2,2,0,1,2,2
+788101,1,Venezuela,1,2,0,2,1,-1
+788101,2,Dominican Republic,0,0,0,0,2,1
+788101,2,Venezuela,0,1,0,0,1,-1
+788101,3,Dominican Republic,2,2,0,0,4,3
+788101,3,Venezuela,2,2,0,1,3,-1
+788101,4,Dominican Republic,3,2,0,0,7,4
+788101,4,Venezuela,0,0,0,1,3,-4
+788101,5,Dominican Republic,0,0,0,0,7,4
+788101,5,Venezuela,0,1,0,1,3,-4
+788101,6,Dominican Republic,0,1,0,1,7,4
+788101,6,Venezuela,0,0,0,1,3,-4
+788101,7,Dominican Republic,0,2,0,2,7,4
+788101,7,Venezuela,0,1,0,2,3,-4
+788101,8,Dominican Republic,0,0,0,1,7,4
+788101,8,Venezuela,0,0,0,0,3,-4
+788101,9,Dominican Republic,0,2,1,2,7,4
+788101,9,Venezuela,2,0,0,1,5,-2
+788095,1,Korea,0,0,0,0,0,0
+788095,1,Dominican Republic,0,0,0,0,0,0
+788095,2,Korea,0,0,0,0,0,0
+788095,2,Dominican Republic,3,3,0,2,3,3
+788095,3,Korea,0,0,0,1,0,-3
+788095,3,Dominican Republic,4,4,0,3,7,7
+788095,4,Korea,0,2,0,1,0,-7
+788095,4,Dominican Republic,0,0,0,0,7,7
+788095,5,Korea,0,0,0,0,0,-7
+788095,5,Dominican Republic,0,0,0,0,7,7
+788095,6,Korea,0,0,0,0,0,-7
+788095,6,Dominican Republic,0,0,0,0,7,7
+788095,7,Korea,0,0,0,0,0,-7
+788095,7,Dominican Republic,3,2,1,0,10,10
+788100,1,United States,1,1,0,1,1,1
+788100,1,Canada,0,2,0,2,0,-1
+788100,2,United States,0,0,0,0,1,1
+788100,2,Canada,0,1,0,1,0,-1
+788100,3,United States,2,3,0,2,3,3
+788100,3,Canada,0,0,1,0,0,-3
+788100,4,United States,0,1,0,1,3,3
+788100,4,Canada,0,1,0,1,0,-3
+788100,5,United States,0,0,0,0,3,3
+788100,5,Canada,0,0,0,1,0,-3
+788100,6,United States,2,3,0,1,5,5
+788100,6,Canada,3,2,0,0,3,-2
+788100,7,United States,0,0,0,0,5,2
+788100,7,Canada,0,2,0,2,3,-2
+788100,8,United States,0,0,0,0,5,2
+788100,8,Canada,0,0,0,0,3,-2
+788100,9,United States,0,0,0,1,5,2
+788100,9,Canada,0,0,0,0,3,-2
+788098,1,Puerto Rico,1,1,0,0,1,1
+788098,1,Italy,4,3,0,2,4,3
+788098,2,Puerto Rico,1,0,0,3,2,-2
+788098,2,Italy,0,2,0,3,4,2
+788098,3,Puerto Rico,0,0,0,0,2,-2
+788098,3,Italy,0,1,0,1,4,2
+788098,4,Puerto Rico,0,1,0,1,2,-2
+788098,4,Italy,4,2,0,1,8,6
+788098,5,Puerto Rico,0,1,0,1,2,-6
+788098,5,Italy,0,0,0,0,8,6
+788098,6,Puerto Rico,0,0,0,0,2,-6
+788098,6,Italy,0,0,0,0,8,6
+788098,7,Puerto Rico,0,0,0,2,2,-6
+788098,7,Italy,0,0,1,0,8,6
+788098,8,Puerto Rico,4,3,0,2,6,-2
+788098,8,Italy,0,0,0,2,8,2
+788098,9,Puerto Rico,0,1,0,1,6,-2
+788098,9,Italy,0,0,0,0,8,2
+788097,1,Venezuela,1,1,0,0,1,1
+788097,1,Japan,1,1,0,0,1,0
+788097,2,Venezuela,1,2,0,2,2,1
+788097,2,Japan,0,0,0,0,1,-1
+788097,3,Venezuela,0,1,0,1,2,1
+788097,3,Japan,4,3,0,1,5,3
+788097,4,Venezuela,0,0,0,0,2,-3
+788097,4,Japan,0,1,0,2,5,3
+788097,5,Venezuela,2,1,0,0,4,-1
+788097,5,Japan,0,0,0,0,5,1
+788097,6,Venezuela,3,3,0,0,7,2
+788097,6,Japan,0,0,0,0,5,-2
+788097,7,Venezuela,0,0,0,0,7,2
+788097,7,Japan,0,0,0,0,5,-2
+788097,8,Venezuela,1,1,0,0,8,3
+788097,8,Japan,0,2,1,2,5,-3
+788097,9,Venezuela,0,1,0,1,8,3
+788097,9,Japan,0,0,0,0,5,-3
+788096,1,United States,0,1,0,2,0,0
+788096,1,Dominican Republic,0,0,0,0,0,0
+788096,2,United States,0,1,0,0,0,0
+788096,2,Dominican Republic,1,1,0,0,1,1
+788096,3,United States,0,2,0,2,0,-1
+788096,3,Dominican Republic,0,1,0,1,1,1
+788096,4,United States,2,2,0,1,2,1
+788096,4,Dominican Republic,0,2,1,3,1,-1
+788096,5,United States,0,1,0,1,2,1
+788096,5,Dominican Republic,0,2,0,1,1,-1
+788096,6,United States,0,0,0,0,2,1
+788096,6,Dominican Republic,0,0,0,0,1,-1
+788096,7,United States,0,0,0,0,2,1
+788096,7,Dominican Republic,0,2,0,2,1,-1
+788096,8,United States,0,0,0,0,2,1
+788096,8,Dominican Republic,0,0,0,0,1,-1
+788096,9,United States,0,0,0,0,2,1
+788096,9,Dominican Republic,0,0,0,1,1,-1
+788093,1,Venezuela,0,1,0,0,0,0
+788093,1,Italy,0,1,0,0,0,0
+788093,2,Venezuela,0,1,0,1,0,0
+788093,2,Italy,2,1,0,2,2,2
+788093,3,Venezuela,0,0,0,1,0,-2
+788093,3,Italy,0,0,0,1,2,2
+788093,4,Venezuela,1,2,0,1,1,-1
+788093,4,Italy,0,1,0,1,2,1
+788093,5,Venezuela,0,0,0,1,1,-1
+788093,5,Italy,0,0,0,1,2,1
+788093,6,Venezuela,0,0,0,0,1,-1
+788093,6,Italy,0,2,0,3,2,1
+788093,7,Venezuela,3,4,0,2,4,2
+788093,7,Italy,0,0,0,0,2,-2
+788093,8,Venezuela,0,0,0,0,4,2
+788093,8,Italy,0,0,0,0,2,-2
+788093,9,Venezuela,0,0,0,0,4,2
+788093,9,Italy,0,0,0,0,2,-2
+788094,1,Venezuela,0,1,0,0,0,0
+788094,1,United States,0,0,0,0,0,0
+788094,2,Venezuela,0,1,0,1,0,0
+788094,2,United States,0,0,0,0,0,0
+788094,3,Venezuela,1,1,0,1,1,1
+788094,3,United States,0,1,0,1,0,-1
+788094,4,Venezuela,0,0,0,0,1,1
+788094,4,United States,0,0,0,1,0,-1
+788094,5,Venezuela,1,1,0,0,2,2
+788094,5,United States,0,0,0,0,0,-2
+788094,6,Venezuela,0,0,0,0,2,2
+788094,6,United States,0,1,0,1,0,-2
+788094,7,Venezuela,0,1,0,1,2,2
+788094,7,United States,0,0,0,1,0,-2
+788094,8,Venezuela,0,0,0,0,2,2
+788094,8,United States,2,1,0,0,2,0
+788094,9,Venezuela,1,1,0,2,3,1
+788094,9,United States,0,0,0,0,2,-1
