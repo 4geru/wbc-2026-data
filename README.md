@@ -27,6 +27,35 @@
 
 ---
 
+## データ更新方法
+
+### 実行環境
+
+- Python 3.x
+- `requests` ライブラリ（`pip install requests`）
+
+### 実行手順
+
+```bash
+cd project-data-store/wbc-2026/scripts
+python3 scraping_main.py
+```
+
+- 完了済み試合（Final / Completed Early）のみ取得します
+- 未完了試合（Scheduled / In Progress）は自動スキップされます
+- CSV はすべて **上書き**されます（差分更新ではありません）
+- 選手プロフィールは選手数 × 約 0.3 秒かかります（約 300 選手 = 約 1.5 分）
+
+### 更新タイミングの目安
+
+| タイミング | 操作 |
+|---|---|
+| Pool ラウンド終了後 | `python3 scraping_main.py` を実行 |
+| 準々決勝終了後 | 同上 |
+| 準決勝・決勝終了後 | 同上（最終更新） |
+
+---
+
 ## Tableau での計算フィールド例
 
 打席結果（wbc2026_atbats）の bool カラム（1/0）を使って、以下の指標が計算フィールドで表現できます。
