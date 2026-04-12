@@ -333,7 +333,7 @@ def add_cumulative_scores(innings_rows, games_rows):
     return result
 
 
-def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitches_rows, events_rows, player_ids):
+def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitches_rows, events_rows, pitching_rows, player_ids):
     print(f"  取得中: {game_info['away_team']} vs {game_info['home_team']}")
     pbp = fetch_play_by_play(game_pk)
     box = fetch_boxscore(game_pk)
@@ -411,6 +411,43 @@ def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitc
                     "jersey_number": jersey,
                 }
 
+    # boxscore から投手成績を収集
+    for side in ("away", "home"):
+        pitching_team = away_name if side == "away" else home_name
+        pitcher_ids = box["teams"][side].get("pitchers", [])
+        players = box["teams"][side].get("players", {})
+        for pid in pitcher_ids:
+            player_data = players.get(f"ID{pid}", {})
+            p_stats = player_data.get("stats", {}).get("pitching", {})
+            if not p_stats:
+                continue
+            pitcher_name = player_data.get("person", {}).get("fullName", "")
+            innings_pitched_str = p_stats.get("inningsPitched", "0.0")
+            try:
+                ip_parts = str(innings_pitched_str).split(".")
+                ip_decimal = int(ip_parts[0]) + int(ip_parts[1]) / 3 if len(ip_parts) > 1 else float(ip_parts[0])
+            except Exception:
+                ip_decimal = None
+            pitching_rows.append({
+                "game_id": game_pk,
+                "date": game_info["date"],
+                "round": round_name,
+                "pool": pool,
+                "pitching_team": pitching_team,
+                "pitcher_id": pid,
+                "pitcher": pitcher_name,
+                "innings_pitched": innings_pitched_str,
+                "innings_pitched_dec": ip_decimal,
+                "earned_runs": p_stats.get("earnedRuns", 0),
+                "runs": p_stats.get("runs", 0),
+                "hits": p_stats.get("hits", 0),
+                "strikeouts": p_stats.get("strikeOuts", 0),
+                "walks": p_stats.get("baseOnBalls", 0),
+                "home_runs": p_stats.get("homeRuns", 0),
+                "batters_faced": p_stats.get("battersFaced", 0),
+                "num_pitches": p_stats.get("numberOfPitches", 0),
+            })
+
     # innings
     for inning in linescore.get("innings", []):
         inning_num = inning["num"]
@@ -435,7 +472,9 @@ def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitc
         pitching_team = home_name if half == "top" else away_name
         matchup = play.get("matchup", {})
         pitcher = matchup.get("pitcher", {}).get("fullName")
+        pitcher_id = matchup.get("pitcher", {}).get("id")
         batter = matchup.get("batter", {}).get("fullName")
+        batter_id = matchup.get("batter", {}).get("id")
         result = play.get("result", {})
         event_type = result.get("eventType", "")
         rbi = result.get("rbi", 0)
@@ -453,7 +492,9 @@ def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitc
             "inning": inning,
             "batting_team": batting_team,
             "pitching_team": pitching_team,
+            "pitcher_id": pitcher_id,
             "pitcher": pitcher,
+            "batter_id": batter_id,
             "batter": batter,
             "pitches": pitch_count,
             "result": RESULT_JA.get(event_type, event_type),
@@ -481,7 +522,9 @@ def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitc
                     "inning": inning,
                     "batting_team": batting_team,
                     "pitching_team": pitching_team,
+                    "pitcher_id": pitcher_id,
                     "pitcher": pitcher,
+                    "batter_id": batter_id,
                     "batter": batter,
                     "pitch_num": pitch_num,
                     "pitch_type": PITCH_TYPE_JA.get(pitch_type_code, pitch_type_code),
@@ -507,9 +550,12 @@ def process_game(game_pk, game_info, games_rows, innings_rows, atbats_rows, pitc
                                 "inning": inning,
                                 "batting_team": batting_team,
                                 "pitching_team": pitching_team,
+                                "pitcher_id": pitcher_id,
                                 "pitcher": pitcher,
+                                "batter_id": batter_id,
                                 "batter": batter,
                                 "event_type": EVENT_TYPE_JA.get(ev, ev),
+                                "player_id": runner.get("details", {}).get("runner", {}).get("id"),
                                 "player": runner.get("details", {}).get("runner", {}).get("fullName"),
                                 "from_base": runner.get("movement", {}).get("originBase"),
                                 "to_base": runner.get("movement", {}).get("end"),
@@ -538,7 +584,9 @@ COLUMN_MAP = {
     "errors":               "失策",
     "left_on_base":         "残塁",
     "cumulative_runs":      "累積得点",
+    "pitcher_id":           "投手ID",
     "pitcher":              "投手",
+    "batter_id":            "打者ID",
     "batter":               "打者",
     "pitches":              "投球数",
     "result":               "打席結果",
@@ -569,10 +617,10 @@ COLUMN_MAP = {
     "is_contact":           "コンタクト",
     "pitch_result_group":   "結果グループ",
     "event_type":           "イベント種別",
+    "player_id":            "選手ID",
     "player":               "選手",
     "from_base":            "移動前の塁",
     "to_base":              "移動後の塁",
-    "player_id":            "選手ID",
     "player_name":          "選手名",
     "wbc_team":             "WBCチーム",
     "position":             "ポジション",
@@ -587,6 +635,17 @@ COLUMN_MAP = {
     "mlb_team":             "MLBチーム",
     "mlb_debut_year":       "MLB初出場年",
     "mlb_experience_years": "MLB経験年数",
+    "pitching_team":        "守備チーム",
+    "innings_pitched":      "投球回",
+    "innings_pitched_dec":  "投球回（小数）",
+    "earned_runs":          "自責点",
+    "runs":                 "失点",
+    "hits":                 "被安打",
+    "strikeouts":           "奪三振",
+    "walks":                "与四球",
+    "home_runs":            "被本塁打",
+    "batters_faced":        "対戦打者数",
+    "num_pitches":          "投球数",
 }
 
 
@@ -601,12 +660,14 @@ def write_csv(filename, rows, fieldnames):
     print(f"保存: {filepath} ({len(rows)}行)")
 
 
-def run():
+def run(skip_players=False):
     print("=== WBC 2026 データ取得 ===")
+    if skip_players:
+        print("※ 選手プロフィール取得をスキップします（wbc2026_players.csv は更新しません）")
     games = fetch_schedule()
     print(f"試合数: {len(games)}")
 
-    games_rows, innings_rows, atbats_rows, pitches_rows, events_rows = [], [], [], [], []
+    games_rows, innings_rows, atbats_rows, pitches_rows, events_rows, pitching_rows = [], [], [], [], [], []
     player_ids = {}
 
     for game in games:
@@ -614,13 +675,14 @@ def run():
             print(f"  スキップ: {game['away_team']} vs {game['home_team']} ({game['status']})")
             continue
         try:
-            process_game(game["game_pk"], game, games_rows, innings_rows, atbats_rows, pitches_rows, events_rows, player_ids)
+            process_game(game["game_pk"], game, games_rows, innings_rows, atbats_rows, pitches_rows, events_rows, pitching_rows, player_ids)
             time.sleep(0.5)
         except Exception as e:
             print(f"  エラー: {game['game_pk']} - {e}")
 
     innings_rows = add_cumulative_scores(innings_rows, games_rows)
-    players_rows = fetch_players(player_ids)
+    if not skip_players:
+        players_rows = fetch_players(player_ids)
 
     write_csv("wbc2026_games.csv", games_rows,
               ["game_id", "date", "round", "pool", "away_team", "home_team",
@@ -632,22 +694,29 @@ def run():
 
     write_csv("wbc2026_atbats.csv", atbats_rows,
               ["game_id", "date", "round", "pool", "inning", "batting_team", "pitching_team",
-               "pitcher", "batter", "pitches", "result", "rbi",
+               "pitcher_id", "pitcher", "batter_id", "batter", "pitches", "result", "rbi",
                "runner_on_1b", "runner_on_2b", "runner_on_3b",
                "is_plate_appearance", "is_at_bat", "is_hit", "is_single", "is_double",
                "is_triple", "is_home_run", "is_strikeout", "is_walk", "is_hbp", "is_sac", "total_bases"])
 
     write_csv("wbc2026_pitches.csv", pitches_rows,
               ["game_id", "date", "round", "pool", "inning", "batting_team", "pitching_team",
-               "pitcher", "batter", "pitch_num", "pitch_type", "call", "strikes", "balls", "speed_kmh",
+               "pitcher_id", "pitcher", "batter_id", "batter", "pitch_num", "pitch_type", "call", "strikes", "balls", "speed_kmh",
                "is_strike", "is_swing", "is_contact", "pitch_result_group"])
 
     write_csv("wbc2026_events.csv", events_rows,
               ["game_id", "date", "round", "pool", "inning", "batting_team", "pitching_team",
-               "pitcher", "batter", "event_type", "player", "from_base", "to_base"])
+               "pitcher_id", "pitcher", "batter_id", "batter", "event_type", "player_id", "player", "from_base", "to_base"])
 
-    write_csv("wbc2026_players.csv", players_rows,
-              ["player_id", "player_name", "wbc_team", "position", "jersey_number",
-               "birth_date", "age", "height_cm", "weight_kg",
-               "bat_side", "pitch_hand", "birth_country",
-               "mlb_team", "mlb_debut_year", "mlb_experience_years"])
+    if not skip_players:
+        write_csv("wbc2026_players.csv", players_rows,
+                  ["player_id", "player_name", "wbc_team", "position", "jersey_number",
+                   "birth_date", "age", "height_cm", "weight_kg",
+                   "bat_side", "pitch_hand", "birth_country",
+                   "mlb_team", "mlb_debut_year", "mlb_experience_years"])
+
+    write_csv("wbc2026_pitching.csv", pitching_rows,
+              ["game_id", "date", "round", "pool", "pitching_team", "pitcher_id", "pitcher",
+               "innings_pitched", "innings_pitched_dec",
+               "earned_runs", "runs", "hits", "strikeouts", "walks",
+               "home_runs", "batters_faced", "num_pitches"])

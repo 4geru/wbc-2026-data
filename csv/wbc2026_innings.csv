@@ -1,4 +1,4 @@
-試合ID,イニング,攻撃チーム,得点,安打数,失策,残塁,累積得点,得点差
+試合ID,イニング,攻撃チーム,失点,被安打,失策,残塁,累積得点,得点差
 788120,1,Chinese Taipei,0,0,0,1,0,0
 788120,1,Australia,0,1,0,1,0,0
 788120,2,Chinese Taipei,0,0,0,0,0,0
@@ -96,7 +96,7 @@
 788110,5,Kingdom of the Netherlands,0,1,0,2,1,-1
 788110,5,Venezuela,4,3,0,2,6,5
 788110,6,Kingdom of the Netherlands,1,0,0,2,2,-4
-788110,6,Venezuela,0,0,0,0,6,4
+788110,6,Venezuela,0,0,1,0,6,4
 788110,7,Kingdom of the Netherlands,0,0,0,0,2,-4
 788110,7,Venezuela,0,1,0,1,6,4
 788110,8,Kingdom of the Netherlands,0,0,0,1,2,-4

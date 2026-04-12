@@ -1,142 +1,142 @@
-試合ID,日付,ラウンド,プール,イニング,攻撃チーム,守備チーム,投手,打者,イベント種別,選手,移動前の塁,移動後の塁
-788120,2026-03-05,Pool C,C,5,Australia,Chinese Taipei,Po-Yu Chen,Travis Bazzana,暴投,Tim Kennelly,1B,2B
-788115,2026-03-05,Pool C,C,2,Korea,Czechia,Jeff Barto,Jung Hoo Lee,盗塁（二塁）,Jahmai Jones,1B,2B
-788115,2026-03-05,Pool C,C,4,Czechia,Korea,Kyung-Eun Noh,Martin Muzik,盗塁（二塁）,Marek Chlup,1B,2B
-788115,2026-03-05,Pool C,C,7,Korea,Czechia,Lukas Ercoli,Shay Whitcomb,捕逸,Bo Gyeong Moon,1B,2B
-788116,2026-03-06,Pool C,C,4,Czechia,Australia,Coen Wynne,Martin Muzik,盗塁（二塁）,Martin Cervenka,1B,2B
-788116,2026-03-06,Pool C,C,9,Australia,Czechia,Marek Minarik,Robbie Perkins,盗塁死（二塁）,Robbie Glendinning,1B,
-788139,2026-03-06,Pool A,A,1,Panama,Cuba,Livan Moinelo,José Caballero,盗塁死（三塁）,Allen Córdoba,2B,
-788139,2026-03-06,Pool A,A,7,Panama,Cuba,Emmanuel Chapman,Leo Jiménez,盗塁（二塁）,Leo Bernal,1B,2B
-788139,2026-03-06,Pool A,A,7,Panama,Cuba,Darien Núñez,Christian Bethancourt,暴投,Jhonny Santos,2B,3B
-788110,2026-03-06,Pool D,D,5,Venezuela,Kingdom of the Netherlands,Eric Mendez,William Contreras,暴投,Wilyer Abreu,1B,2B
-788129,2026-03-06,Pool B,B,6,Mexico,Great Britain,Ryan Long,Alejandro Kirk,盗塁（二塁）,Jarren Duran,1B,2B
-788129,2026-03-06,Pool B,B,9,Mexico,Great Britain,Graham Spraker,Alek Thomas,盗塁（二塁）,Nick Gonzales,1B,2B
-788136,2026-03-06,Pool A,A,9,Colombia,Puerto Rico,Edwin Díaz,Dayan Frias,捕逸,Tito Polo,1B,2B
-788105,2026-03-06,Pool D,D,2,Dominican Republic,Nicaragua,Ronald Medrano,Fernando Tatis Jr.,盗塁（二塁）,Geraldo Perdomo,1B,2B
-788128,2026-03-06,Pool B,B,3,United States,Brazil,Joseph Contreras,Alex Bregman,暴投,Kyle Schwarber,1B,2B
-788128,2026-03-06,Pool B,B,3,United States,Brazil,Tiago Da Silva,Brice Turang,盗塁（二塁）,Byron Buxton,1B,2B
-788128,2026-03-06,Pool B,B,5,United States,Brazil,Gabriel Barbosa,Aaron Judge,盗塁（三塁）,Brice Turang,2B,3B
-788128,2026-03-06,Pool B,B,7,Brazil,United States,Michael Wacha,Vitor Ito,暴投,Leonardo Reginatto,1B,2B
-788128,2026-03-06,Pool B,B,9,United States,Brazil,Tomas Lopez,Bobby Witt Jr.,盗塁（二塁）,Brice Turang,1B,2B
-788128,2026-03-06,Pool B,B,9,United States,Brazil,Vitor Takahashi,Brice Turang,ボーク,Cal Raleigh,3B,score
-788128,2026-03-06,Pool B,B,9,United States,Brazil,Vitor Takahashi,Brice Turang,ボーク,Roman Anthony,2B,3B
-788128,2026-03-06,Pool B,B,9,United States,Brazil,Vitor Takahashi,Brice Turang,ボーク,Pete Crow-Armstrong,1B,2B
-788117,2026-03-07,Pool C,C,1,Chinese Taipei,Czechia,Jan Novak,Yu Chang,盗塁（三塁）,Tsung-Che Cheng,2B,3B
-788117,2026-03-07,Pool C,C,2,Chinese Taipei,Czechia,Jan Novak,Tsung-Che Cheng,盗塁（二塁）,Chen-Wei Chen,1B,2B
-788117,2026-03-07,Pool C,C,2,Chinese Taipei,Czechia,Jan Novak,Cheng-Hui Sung,捕逸,Chen-Wei Chen,2B,3B
-788117,2026-03-07,Pool C,C,2,Chinese Taipei,Czechia,Jan Novak,Cheng-Hui Sung,捕逸,Tsung-Che Cheng,1B,2B
-788117,2026-03-07,Pool C,C,4,Chinese Taipei,Czechia,Tomas Duffek,Cheng-Hui Sung,盗塁（二塁）,Tsung-Che Cheng,1B,2B
-788117,2026-03-07,Pool C,C,4,Chinese Taipei,Czechia,Tomas Duffek,Yu Chang,盗塁（三塁）,Tsung-Che Cheng,2B,3B
-788117,2026-03-07,Pool C,C,5,Chinese Taipei,Czechia,Jeff Barto,Tsung-Che Cheng,盗塁（二塁）,Kun-Yu Chiang,1B,2B
-788117,2026-03-07,Pool C,C,6,Chinese Taipei,Czechia,Martin Schneider,Yu Chang,盗塁（二塁）,Stuart Fairchild,1B,2B
-788117,2026-03-07,Pool C,C,6,Chinese Taipei,Czechia,Boris Vecerka,Lyle Lin,暴投,Yu Chang,2B,3B
-788117,2026-03-07,Pool C,C,6,Chinese Taipei,Czechia,Boris Vecerka,Lyle Lin,暴投,Cheng-Yu Chang,1B,2B
-788138,2026-03-07,Pool A,A,1,Colombia,Canada,Michael Soroka,Harold Ramírez,盗塁（二塁）,Michael Arroyo,1B,2B
-788138,2026-03-07,Pool A,A,1,Colombia,Canada,Michael Soroka,Reynaldo Rodriguez,暴投,Michael Arroyo,2B,3B
-788138,2026-03-07,Pool A,A,8,Canada,Colombia,Guillo Zuñiga,Otto Lopez,盗塁（二塁）,Tyler Black,1B,2B
-788108,2026-03-07,Pool D,D,2,Nicaragua,Kingdom of the Netherlands,Jaitoine Kelly,Freddy Zamora,捕逸,Cristhian Sandoval,1B,2B
-788108,2026-03-07,Pool D,D,6,Nicaragua,Kingdom of the Netherlands,Derek West,Ronald Rivera,盗塁死（二塁）,Cristhian Sandoval,1B,
-788126,2026-03-07,Pool B,B,6,Italy,Brazil,Hector Villarroel,Dominic Canzone,盗塁（二塁）,Jon Berti,1B,2B
-788137,2026-03-07,Pool A,A,10,Panama,Puerto Rico,Jose Espada,Edmundo Sosa,盗塁（二塁）,José Caballero,1B,2B
-788107,2026-03-07,Pool D,D,2,Venezuela,Israel,Charlie Beilenson,Maikel Garcia,盗塁（二塁）,Ezequiel Tovar,1B,2B
-788107,2026-03-07,Pool D,D,5,Venezuela,Israel,Jordan Geber,Wilyer Abreu,暴投,Eugenio Suárez,1B,2B
-788107,2026-03-07,Pool D,D,6,Venezuela,Israel,Daniel Federman,Javier Sanoja,盗塁（二塁）,Gleyber Torres,1B,2B
-788107,2026-03-07,Pool D,D,6,Venezuela,Israel,Daniel Federman,Ronald Acuña Jr.,暴投,Gleyber Torres,2B,3B
-788107,2026-03-07,Pool D,D,6,Venezuela,Israel,Daniel Federman,Ronald Acuña Jr.,暴投,Ezequiel Tovar,1B,2B
-788107,2026-03-07,Pool D,D,6,Venezuela,Israel,Rob Kaminsky,Luis Arraez,盗塁（二塁）,Maikel Garcia,1B,2B
-788127,2026-03-07,Pool B,B,5,United States,Great Britain,Andre Scrubb,Kyle Schwarber,暴投,Ernie Clement,3B,score
-788127,2026-03-07,Pool B,B,5,United States,Great Britain,Andre Scrubb,Kyle Schwarber,暴投,Pete Crow-Armstrong,2B,3B
-788113,2026-03-08,Pool C,C,3,Chinese Taipei,Korea,Hyun Jin Ryu,Stuart Fairchild,盗塁（三塁）,Tsung-Che Cheng,2B,3B
-788113,2026-03-08,Pool C,C,3,Korea,Chinese Taipei,Ruei-Yang Gu Lin,Dong Won Park,牽制盗塁死（二塁）,Ju Won Kim,1B,
-788113,2026-03-08,Pool C,C,10,Korea,Chinese Taipei,Jyun-Yue Tseng,Do Yeong Kim,盗塁（二塁）,Hyeseong Kim,1B,2B
-788109,2026-03-08,Pool C,C,1,Japan,Australia,Connor MacDonald,Masataka Yoshida,暴投,Seiya Suzuki,1B,2B
-788109,2026-03-08,Pool C,C,4,Australia,Japan,Tomoyuki Sugano,Alex Hall,盗塁（二塁）,Aaron Whitefield,1B,2B
-788109,2026-03-08,Pool C,C,6,Australia,Japan,Chihiro Sumida,Alex Hall,盗塁（三塁）,Aaron Whitefield,2B,3B
-788109,2026-03-08,Pool C,C,8,Japan,Australia,Ky Hampton,Shugo Maki,盗塁（二塁）,Ukyo Shuto,1B,2B
-788135,2026-03-08,Pool A,A,1,Colombia,Cuba,Denny Larrondo,Donovan Solano,盗塁（二塁）,Michael Arroyo,1B,2B
-788135,2026-03-08,Pool A,A,2,Colombia,Cuba,Denny Larrondo,Michael Arroyo,暴投,Dayan Frias,1B,2B
-788135,2026-03-08,Pool A,A,6,Cuba,Colombia,Ezequiel Zabaleta,Yiddi Cappe,盗塁（二塁）,Leonel Moas Jr.,1B,2B
-788135,2026-03-08,Pool A,A,7,Colombia,Cuba,Emmanuel Chapman,Harold Ramírez,暴投,Michael Arroyo,1B,2B
-788106,2026-03-08,Pool D,D,1,Dominican Republic,Kingdom of the Netherlands,Arij Fransen,Ketel Marte,捕逸,Fernando Tatis Jr.,1B,2B
-788106,2026-03-08,Pool D,D,5,Dominican Republic,Kingdom of the Netherlands,Wendell Floranus,Manny Machado,盗塁（二塁）,Juan Soto,1B,2B
-788106,2026-03-08,Pool D,D,5,Dominican Republic,Kingdom of the Netherlands,Justin Morales,Ketel Marte,捕逸,Erik González,2B,3B
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,BJ Murray,盗塁（二塁）,Jazz Chisholm Jr.,1B,2B
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,Ivan Johnson,暴投,Nate Eaton,3B,score
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,Ivan Johnson,暴投,Jazz Chisholm Jr.,2B,3B
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,Ivan Johnson,暴投,Jazz Chisholm Jr.,3B,score
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,Ivan Johnson,暴投,Nate Eaton,3B,score
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,Ivan Johnson,暴投,Jazz Chisholm Jr.,2B,3B
-788124,2026-03-08,Pool B,B,1,Great Britain,Italy,Dylan DeLucia,Ivan Johnson,暴投,Jazz Chisholm Jr.,3B,score
-788124,2026-03-08,Pool B,B,4,Great Britain,Italy,Gabriele Quattrini,Matt Koperniak,盗塁（二塁）,Kristian Robinson,1B,2B
-788124,2026-03-08,Pool B,B,8,Great Britain,Italy,Ron Marinaccio,Ivan Johnson,盗塁（二塁）,BJ Murray,1B,2B
-788124,2026-03-08,Pool B,B,8,Great Britain,Italy,Ron Marinaccio,Ivan Johnson,暴投,Jazz Chisholm Jr.,3B,score
-788124,2026-03-08,Pool B,B,8,Great Britain,Italy,Ron Marinaccio,Ivan Johnson,暴投,BJ Murray,2B,3B
-788104,2026-03-08,Pool D,D,2,Israel,Nicaragua,Carlos Rodriguez,Jake Gelof,盗塁（二塁）,Cole Carrigg,1B,2B
-788104,2026-03-08,Pool D,D,6,Israel,Nicaragua,Carlos Teller,C.J. Stubbs,牽制（一塁）,Noah Mendlinger,1B,
-788134,2026-03-08,Pool A,A,5,Panama,Canada,Antoine Jean,Leo Bernal,盗塁（二塁）,Enrique Bradfield Jr.,1B,2B
-788134,2026-03-08,Pool A,A,5,Canada,Panama,James Gonzalez,Jared Young,盗塁（二塁）,Tyler O'Neill,1B,2B
-788134,2026-03-08,Pool A,A,6,Panama,Canada,James Paxton,José Caballero,盗塁（二塁）,Enrique Bradfield Jr.,1B,2B
-788134,2026-03-08,Pool A,A,7,Panama,Canada,Adam Macko,Luis Castillo,暴投,Edmundo Sosa,2B,3B
-788134,2026-03-08,Pool A,A,7,Panama,Canada,Adam Macko,Luis Castillo,暴投,Christian Bethancourt,1B,2B
-788125,2026-03-08,Pool B,B,4,Mexico,Brazil,Joao Gabriel Marostica,Joey Ortiz,暴投,Nacho Alvarez Jr.,3B,score
-788125,2026-03-08,Pool B,B,4,Mexico,Brazil,Joao Gabriel Marostica,Joey Ortiz,暴投,Nick Gonzales,2B,3B
-788125,2026-03-08,Pool B,B,4,Mexico,Brazil,Joao Gabriel Marostica,Joey Ortiz,暴投,Alek Thomas,1B,2B
-788125,2026-03-08,Pool B,B,5,Mexico,Brazil,Joao Gabriel Marostica,Alexis Wilson,暴投,Joey Meneses,1B,2B
-788112,2026-03-09,Pool C,C,2,Korea,Australia,Lachlan Wells,Dong Won Park,盗塁（二塁）,Si Hwan Roh,1B,2B
-788112,2026-03-09,Pool C,C,5,Korea,Australia,Alex Wells,Bo Gyeong Moon,盗塁（二塁）,Hyun Min Ahn,1B,2B
-788112,2026-03-09,Pool C,C,6,Korea,Australia,Alex Wells,Do Yeong Kim,暴投,Dong Won Park,2B,3B
-788103,2026-03-09,Pool D,D,4,Dominican Republic,Israel,Zack Weiss,Geraldo Perdomo,盗塁死（三塁）,Agustín Ramírez,2B,
-788103,2026-03-09,Pool D,D,7,Dominican Republic,Israel,Tanner Jacobson,Fernando Tatis Jr.,盗塁（二塁）,Geraldo Perdomo,1B,2B
-788133,2026-03-09,Pool A,A,6,Panama,Colombia,Danis Correa,Jose Ramos,暴投,Leo Bernal,1B,2B
-788133,2026-03-09,Pool A,A,7,Panama,Colombia,Jhon Romero,Rubén Tejada,暴投,Edmundo Sosa,2B,3B
-788133,2026-03-09,Pool A,A,7,Panama,Colombia,Jhon Romero,Rubén Tejada,暴投,Miguel Amaya,1B,2B
-788133,2026-03-09,Pool A,A,8,Panama,Colombia,Yapson Gomez,Leo Bernal,盗塁（二塁）,José Caballero,1B,2B
-788133,2026-03-09,Pool A,A,8,Panama,Colombia,Pedro Garcia,Luis Castillo,盗塁（二塁）,Christian Bethancourt,1B,2B
-788123,2026-03-09,Pool B,B,5,Great Britain,Brazil,Tiago Da Silva,Harry Ford,盗塁（三塁）,Trayce Thompson,2B,3B
-788123,2026-03-09,Pool B,B,6,Great Britain,Brazil,Hector Villarroel,Matt Koperniak,盗塁（二塁）,Ivan Johnson,1B,2B
-788123,2026-03-09,Pool B,B,7,Great Britain,Brazil,Joseph Contreras,BJ Murray,盗塁死（二塁）,Jazz Chisholm Jr.,1B,
-788123,2026-03-09,Pool B,B,7,Great Britain,Brazil,Joseph Contreras,Ivan Johnson,盗塁（二塁）,BJ Murray,1B,2B
-788123,2026-03-09,Pool B,B,8,Great Britain,Brazil,Bo Takahashi,Wallace Clark,捕逸,Trayce Thompson,1B,2B
-788131,2026-03-09,Pool A,A,1,Puerto Rico,Cuba,Julio Robaina,Nolan Arenado,盗塁（二塁）,Willi Castro,1B,2B
-788131,2026-03-09,Pool A,A,6,Cuba,Puerto Rico,Yacksel Ríos,Erisbel Arruebarrena,暴投,Alfredo Despaigne,2B,3B
-788131,2026-03-09,Pool A,A,6,Puerto Rico,Cuba,Emmanuel Chapman,Emmanuel Rivera,盗塁（二塁）,Eddie Rosario,1B,2B
-788099,2026-03-09,Pool D,D,1,Venezuela,Nicaragua,Danilo Bermudez,Jackson Chourio,盗塁（二塁）,Ronald Acuña Jr.,1B,2B
-788122,2026-03-09,Pool B,B,6,United States,Mexico,Daniel Duarte,Bryce Harper,盗塁（二塁）,Bobby Witt Jr.,1B,2B
-788122,2026-03-09,Pool B,B,9,Mexico,United States,Garrett Whitlock,Alek Thomas,守備妨害,Joey Meneses,1B,2B
-788111,2026-03-10,Pool C,C,7,Japan,Czechia,Michal Kovala,Yuhei Nakamura,盗塁（二塁）,Ukyo Shuto,1B,2B
-788102,2026-03-10,Pool D,D,1,Kingdom of the Netherlands,Israel,Carlos Lequerica,Didi Gregorius,盗塁（三塁）,Ceddanne Rafaela,2B,3B
-788102,2026-03-10,Pool D,D,6,Israel,Kingdom of the Netherlands,Kevin Kelly,Cole Carrigg,暴投,Garrett Stubbs,2B,3B
-788102,2026-03-10,Pool D,D,6,Israel,Kingdom of the Netherlands,Kevin Kelly,Cole Carrigg,暴投,RJ Schreck,1B,2B
-788132,2026-03-10,Pool A,A,2,Puerto Rico,Canada,Jordan Balazovic,Luis Vázquez,盗塁死（二塁）,Matthew Lugo,1B,
-788119,2026-03-10,Pool B,B,3,Italy,United States,Nolan McLean,Dominic Canzone,盗塁（二塁）,Jakob Marsee,1B,2B
-788119,2026-03-10,Pool B,B,3,United States,Italy,Michael Lorenzen,Gunnar Henderson,暴投,Bobby Witt Jr.,1B,2B
-788119,2026-03-10,Pool B,B,3,United States,Italy,Michael Lorenzen,Gunnar Henderson,暴投,Bobby Witt Jr.,2B,3B
-788119,2026-03-10,Pool B,B,3,United States,Italy,Michael Lorenzen,Gunnar Henderson,暴投,Bobby Witt Jr.,1B,2B
-788119,2026-03-10,Pool B,B,3,United States,Italy,Michael Lorenzen,Gunnar Henderson,暴投,Bobby Witt Jr.,2B,3B
-788119,2026-03-10,Pool B,B,6,Italy,United States,Brad Keller,Jakob Marsee,暴投,Sam Antonacci,3B,score
-788130,2026-03-11,Pool A,A,3,Canada,Cuba,Livan Moinelo,Owen Caissie,捕逸,Tyler O'Neill,2B,3B
-788130,2026-03-11,Pool A,A,3,Canada,Cuba,Livan Moinelo,Owen Caissie,捕逸,Abraham Toro,1B,2B
-788130,2026-03-11,Pool A,A,6,Canada,Cuba,Yariel Rodríguez,Bo Naylor,暴投,Matt Davidson,1B,3B
-788130,2026-03-11,Pool A,A,6,Canada,Cuba,Yariel Rodríguez,Edouard Julien,盗塁（二塁）,Denzel Clarke,1B,2B
-788121,2026-03-11,Pool B,B,5,Italy,Mexico,Javier Assad,Andrew Fischer,盗塁（二塁）,Jac Caglianone,1B,2B
-788121,2026-03-11,Pool B,B,5,Mexico,Italy,Aaron Nola,Alek Thomas,盗塁死（二塁）,Nick Gonzales,1B,
-788101,2026-03-11,Pool D,D,3,Venezuela,Dominican Republic,Sandy Alcantara,Maikel Garcia,盗塁（二塁）,Ronald Acuña Jr.,1B,2B
-788101,2026-03-11,Pool D,D,4,Venezuela,Dominican Republic,Huascar Brazobán,Ronald Acuña Jr.,暴投,Wilyer Abreu,1B,2B
-788101,2026-03-11,Pool D,D,7,Venezuela,Dominican Republic,Dennis Santana,Willson Contreras,盗塁（二塁）,Maikel Garcia,1B,2B
-788100,2026-03-13,Quarterfinal,,7,Canada,United States,David Bednar,Josh Naylor,捕逸,Edouard Julien,2B,3B
-788100,2026-03-13,Quarterfinal,,7,Canada,United States,David Bednar,Josh Naylor,捕逸,Otto Lopez,1B,2B
-788098,2026-03-14,Quarterfinal,,3,Italy,Puerto Rico,Eduardo Rivera,Sam Antonacci,盗塁（二塁）,Dante Nori,1B,2B
-788098,2026-03-14,Quarterfinal,,4,Italy,Puerto Rico,Eduardo Rivera,Dominic Canzone,盗塁（二塁）,Vinnie Pasquantino,1B,2B
-788098,2026-03-14,Quarterfinal,,8,Puerto Rico,Italy,Joe La Sorsa,Christian Vázquez,暴投,Emmanuel Rivera,3B,score
-788098,2026-03-14,Quarterfinal,,8,Puerto Rico,Italy,Joe La Sorsa,Christian Vázquez,暴投,Eddie Rosario,2B,3B
-788098,2026-03-14,Quarterfinal,,8,Puerto Rico,Italy,Joe La Sorsa,Christian Vázquez,暴投,Bryan Torres,1B,2B
-788098,2026-03-14,Quarterfinal,,8,Italy,Puerto Rico,Edwin Díaz,Thomas Saggese,盗塁（二塁）,Sam Antonacci,1B,2B
-788098,2026-03-14,Quarterfinal,,8,Italy,Puerto Rico,Edwin Díaz,Dominic Canzone,盗塁（二塁）,Vinnie Pasquantino,1B,2B
-788098,2026-03-14,Quarterfinal,,9,Puerto Rico,Italy,Greg Weissert,Eddie Rosario,守備妨害,Carlos Cortes,1B,2B
-788097,2026-03-14,Quarterfinal,,8,Venezuela,Japan,Atsuki Taneichi,Gleyber Torres,盗塁（三塁）,Ezequiel Tovar,2B,3B
-788096,2026-03-15,Semifinal,,7,Dominican Republic,United States,David Bednar,Fernando Tatis Jr.,盗塁（二塁）,Geraldo Perdomo,1B,2B
-788096,2026-03-15,Semifinal,,9,Dominican Republic,United States,Mason Miller,Oneil Cruz,暴投,Julio Rodríguez,1B,2B
-788093,2026-03-16,Semifinal,,2,Italy,Venezuela,Ricardo Sánchez,Sam Antonacci,盗塁（二塁）,Dante Nori,1B,2B
-788094,2026-03-17,Final,,3,Venezuela,United States,Nolan McLean,Maikel Garcia,暴投,Salvador Perez,2B,3B
-788094,2026-03-17,Final,,3,Venezuela,United States,Nolan McLean,Maikel Garcia,暴投,Ronald Acuña Jr.,1B,2B
-788094,2026-03-17,Final,,9,Venezuela,United States,Garrett Whitlock,Eugenio Suárez,盗塁（二塁）,Javier Sanoja,1B,2B
+試合ID,日付,ラウンド,プール,イニング,攻撃チーム,守備チーム,投手ID,投手,打者ID,打者,イベント種別,選手ID,選手,移動前の塁,移動後の塁
+788120,2026-03-05,Pool C,C,5,Australia,Chinese Taipei,696040,Po-Yu Chen,683953,Travis Bazzana,暴投,470491,Tim Kennelly,1B,2B
+788115,2026-03-05,Pool C,C,2,Korea,Czechia,808951,Jeff Barto,808982,Jung Hoo Lee,盗塁（二塁）,663330,Jahmai Jones,1B,2B
+788115,2026-03-05,Pool C,C,4,Czechia,Korea,628359,Kyung-Eun Noh,693973,Martin Muzik,盗塁（二塁）,803013,Marek Chlup,1B,2B
+788115,2026-03-05,Pool C,C,7,Korea,Czechia,807155,Lukas Ercoli,694376,Shay Whitcomb,捕逸,823575,Bo Gyeong Moon,1B,2B
+788116,2026-03-06,Pool C,C,4,Czechia,Australia,807650,Coen Wynne,693973,Martin Muzik,盗塁（二塁）,548431,Martin Cervenka,1B,2B
+788116,2026-03-06,Pool C,C,9,Australia,Czechia,608042,Marek Minarik,564434,Robbie Perkins,盗塁死（二塁）,674671,Robbie Glendinning,1B,
+788139,2026-03-06,Pool A,A,1,Panama,Cuba,661267,Livan Moinelo,676609,José Caballero,盗塁死（三塁）,642707,Allen Córdoba,2B,
+788139,2026-03-06,Pool A,A,7,Panama,Cuba,820888,Emmanuel Chapman,677870,Leo Jiménez,盗塁（二塁）,699024,Leo Bernal,1B,2B
+788139,2026-03-06,Pool A,A,7,Panama,Cuba,628345,Darien Núñez,542194,Christian Bethancourt,暴投,645308,Jhonny Santos,2B,3B
+788110,2026-03-06,Pool D,D,5,Venezuela,Kingdom of the Netherlands,677804,Eric Mendez,661388,William Contreras,暴投,677800,Wilyer Abreu,1B,2B
+788129,2026-03-06,Pool B,B,6,Mexico,Great Britain,702465,Ryan Long,672386,Alejandro Kirk,盗塁（二塁）,680776,Jarren Duran,1B,2B
+788129,2026-03-06,Pool B,B,9,Mexico,Great Britain,676942,Graham Spraker,677950,Alek Thomas,盗塁（二塁）,693304,Nick Gonzales,1B,2B
+788136,2026-03-06,Pool A,A,9,Colombia,Puerto Rico,621242,Edwin Díaz,682679,Dayan Frias,捕逸,622738,Tito Polo,1B,2B
+788105,2026-03-06,Pool D,D,2,Dominican Republic,Nicaragua,642574,Ronald Medrano,665487,Fernando Tatis Jr.,盗塁（二塁）,672695,Geraldo Perdomo,1B,2B
+788128,2026-03-06,Pool B,B,3,United States,Brazil,828631,Joseph Contreras,608324,Alex Bregman,暴投,656941,Kyle Schwarber,1B,2B
+788128,2026-03-06,Pool B,B,3,United States,Brazil,547921,Tiago Da Silva,668930,Brice Turang,盗塁（二塁）,621439,Byron Buxton,1B,2B
+788128,2026-03-06,Pool B,B,5,United States,Brazil,682858,Gabriel Barbosa,592450,Aaron Judge,盗塁（三塁）,668930,Brice Turang,2B,3B
+788128,2026-03-06,Pool B,B,7,Brazil,United States,608379,Michael Wacha,672074,Vitor Ito,暴投,553891,Leonardo Reginatto,1B,2B
+788128,2026-03-06,Pool B,B,9,United States,Brazil,838355,Tomas Lopez,677951,Bobby Witt Jr.,盗塁（二塁）,668930,Brice Turang,1B,2B
+788128,2026-03-06,Pool B,B,9,United States,Brazil,836637,Vitor Takahashi,668930,Brice Turang,ボーク,663728,Cal Raleigh,3B,score
+788128,2026-03-06,Pool B,B,9,United States,Brazil,836637,Vitor Takahashi,668930,Brice Turang,ボーク,701350,Roman Anthony,2B,3B
+788128,2026-03-06,Pool B,B,9,United States,Brazil,836637,Vitor Takahashi,668930,Brice Turang,ボーク,691718,Pete Crow-Armstrong,1B,2B
+788117,2026-03-07,Pool C,C,1,Chinese Taipei,Czechia,626416,Jan Novak,644374,Yu Chang,盗塁（三塁）,691907,Tsung-Che Cheng,2B,3B
+788117,2026-03-07,Pool C,C,2,Chinese Taipei,Czechia,626416,Jan Novak,691907,Tsung-Che Cheng,盗塁（二塁）,808992,Chen-Wei Chen,1B,2B
+788117,2026-03-07,Pool C,C,2,Chinese Taipei,Czechia,626416,Jan Novak,830723,Cheng-Hui Sung,捕逸,808992,Chen-Wei Chen,2B,3B
+788117,2026-03-07,Pool C,C,2,Chinese Taipei,Czechia,626416,Jan Novak,830723,Cheng-Hui Sung,捕逸,691907,Tsung-Che Cheng,1B,2B
+788117,2026-03-07,Pool C,C,4,Chinese Taipei,Czechia,667766,Tomas Duffek,830723,Cheng-Hui Sung,盗塁（二塁）,691907,Tsung-Che Cheng,1B,2B
+788117,2026-03-07,Pool C,C,4,Chinese Taipei,Czechia,667766,Tomas Duffek,644374,Yu Chang,盗塁（三塁）,691907,Tsung-Che Cheng,2B,3B
+788117,2026-03-07,Pool C,C,5,Chinese Taipei,Czechia,808951,Jeff Barto,691907,Tsung-Che Cheng,盗塁（二塁）,808997,Kun-Yu Chiang,1B,2B
+788117,2026-03-07,Pool C,C,6,Chinese Taipei,Czechia,626423,Martin Schneider,644374,Yu Chang,盗塁（二塁）,656413,Stuart Fairchild,1B,2B
+788117,2026-03-07,Pool C,C,6,Chinese Taipei,Czechia,807828,Boris Vecerka,670076,Lyle Lin,暴投,644374,Yu Chang,2B,3B
+788117,2026-03-07,Pool C,C,6,Chinese Taipei,Czechia,807828,Boris Vecerka,670076,Lyle Lin,暴投,839138,Cheng-Yu Chang,1B,2B
+788138,2026-03-07,Pool A,A,1,Colombia,Canada,647336,Michael Soroka,623912,Harold Ramírez,盗塁（二塁）,703197,Michael Arroyo,1B,2B
+788138,2026-03-07,Pool A,A,1,Colombia,Canada,647336,Michael Soroka,471906,Reynaldo Rodriguez,暴投,703197,Michael Arroyo,2B,3B
+788138,2026-03-07,Pool A,A,8,Canada,Colombia,670871,Guillo Zuñiga,672640,Otto Lopez,盗塁（二塁）,672012,Tyler Black,1B,2B
+788108,2026-03-07,Pool D,D,2,Nicaragua,Kingdom of the Netherlands,823858,Jaitoine Kelly,668965,Freddy Zamora,捕逸,830698,Cristhian Sandoval,1B,2B
+788108,2026-03-07,Pool D,D,6,Nicaragua,Kingdom of the Netherlands,663723,Derek West,830696,Ronald Rivera,盗塁死（二塁）,830698,Cristhian Sandoval,1B,
+788126,2026-03-07,Pool B,B,6,Italy,Brazil,622609,Hector Villarroel,686527,Dominic Canzone,盗塁（二塁）,542932,Jon Berti,1B,2B
+788137,2026-03-07,Pool A,A,10,Panama,Puerto Rico,664744,Jose Espada,624641,Edmundo Sosa,盗塁（二塁）,676609,José Caballero,1B,2B
+788107,2026-03-07,Pool D,D,2,Venezuela,Israel,810897,Charlie Beilenson,672580,Maikel Garcia,盗塁（二塁）,678662,Ezequiel Tovar,1B,2B
+788107,2026-03-07,Pool D,D,5,Venezuela,Israel,802363,Jordan Geber,677800,Wilyer Abreu,暴投,553993,Eugenio Suárez,1B,2B
+788107,2026-03-07,Pool D,D,6,Venezuela,Israel,679946,Daniel Federman,691594,Javier Sanoja,盗塁（二塁）,650402,Gleyber Torres,1B,2B
+788107,2026-03-07,Pool D,D,6,Venezuela,Israel,679946,Daniel Federman,660670,Ronald Acuña Jr.,暴投,650402,Gleyber Torres,2B,3B
+788107,2026-03-07,Pool D,D,6,Venezuela,Israel,679946,Daniel Federman,660670,Ronald Acuña Jr.,暴投,678662,Ezequiel Tovar,1B,2B
+788107,2026-03-07,Pool D,D,6,Venezuela,Israel,641739,Rob Kaminsky,650333,Luis Arraez,盗塁（二塁）,672580,Maikel Garcia,1B,2B
+788127,2026-03-07,Pool B,B,5,United States,Great Britain,668687,Andre Scrubb,656941,Kyle Schwarber,暴投,676391,Ernie Clement,3B,score
+788127,2026-03-07,Pool B,B,5,United States,Great Britain,668687,Andre Scrubb,656941,Kyle Schwarber,暴投,691718,Pete Crow-Armstrong,2B,3B
+788113,2026-03-08,Pool C,C,3,Chinese Taipei,Korea,547943,Hyun Jin Ryu,656413,Stuart Fairchild,盗塁（三塁）,691907,Tsung-Che Cheng,2B,3B
+788113,2026-03-08,Pool C,C,3,Korea,Chinese Taipei,830716,Ruei-Yang Gu Lin,673526,Dong Won Park,牽制盗塁死（二塁）,823572,Ju Won Kim,1B,
+788113,2026-03-08,Pool C,C,10,Korea,Chinese Taipei,809004,Jyun-Yue Tseng,838339,Do Yeong Kim,盗塁（二塁）,808975,Hyeseong Kim,1B,2B
+788109,2026-03-08,Pool C,C,1,Japan,Australia,628015,Connor MacDonald,807799,Masataka Yoshida,暴投,673548,Seiya Suzuki,1B,2B
+788109,2026-03-08,Pool C,C,4,Australia,Japan,608372,Tomoyuki Sugano,673064,Alex Hall,盗塁（二塁）,664334,Aaron Whitefield,1B,2B
+788109,2026-03-08,Pool C,C,6,Australia,Japan,838757,Chihiro Sumida,673064,Alex Hall,盗塁（三塁）,664334,Aaron Whitefield,2B,3B
+788109,2026-03-08,Pool C,C,8,Japan,Australia,673132,Ky Hampton,808957,Shugo Maki,盗塁（二塁）,683970,Ukyo Shuto,1B,2B
+788135,2026-03-08,Pool A,A,1,Colombia,Cuba,682644,Denny Larrondo,456781,Donovan Solano,盗塁（二塁）,703197,Michael Arroyo,1B,2B
+788135,2026-03-08,Pool A,A,2,Colombia,Cuba,682644,Denny Larrondo,703197,Michael Arroyo,暴投,682679,Dayan Frias,1B,2B
+788135,2026-03-08,Pool A,A,6,Cuba,Colombia,664375,Ezequiel Zabaleta,691268,Yiddi Cappe,盗塁（二塁）,838354,Leonel Moas Jr.,1B,2B
+788135,2026-03-08,Pool A,A,7,Colombia,Cuba,820888,Emmanuel Chapman,623912,Harold Ramírez,暴投,703197,Michael Arroyo,1B,2B
+788106,2026-03-08,Pool D,D,1,Dominican Republic,Kingdom of the Netherlands,687677,Arij Fransen,606466,Ketel Marte,捕逸,665487,Fernando Tatis Jr.,1B,2B
+788106,2026-03-08,Pool D,D,5,Dominican Republic,Kingdom of the Netherlands,622464,Wendell Floranus,592518,Manny Machado,盗塁（二塁）,665742,Juan Soto,1B,2B
+788106,2026-03-08,Pool D,D,5,Dominican Republic,Kingdom of the Netherlands,838329,Justin Morales,606466,Ketel Marte,捕逸,570481,Erik González,2B,3B
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,681230,BJ Murray,盗塁（二塁）,665862,Jazz Chisholm Jr.,1B,2B
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,671155,Ivan Johnson,暴投,681987,Nate Eaton,3B,score
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,671155,Ivan Johnson,暴投,665862,Jazz Chisholm Jr.,2B,3B
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,671155,Ivan Johnson,暴投,665862,Jazz Chisholm Jr.,3B,score
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,671155,Ivan Johnson,暴投,681987,Nate Eaton,3B,score
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,671155,Ivan Johnson,暴投,665862,Jazz Chisholm Jr.,2B,3B
+788124,2026-03-08,Pool B,B,1,Great Britain,Italy,690626,Dylan DeLucia,671155,Ivan Johnson,暴投,665862,Jazz Chisholm Jr.,3B,score
+788124,2026-03-08,Pool B,B,4,Great Britain,Italy,838341,Gabriele Quattrini,689288,Matt Koperniak,盗塁（二塁）,677565,Kristian Robinson,1B,2B
+788124,2026-03-08,Pool B,B,8,Great Britain,Italy,676760,Ron Marinaccio,671155,Ivan Johnson,盗塁（二塁）,681230,BJ Murray,1B,2B
+788124,2026-03-08,Pool B,B,8,Great Britain,Italy,676760,Ron Marinaccio,671155,Ivan Johnson,暴投,665862,Jazz Chisholm Jr.,3B,score
+788124,2026-03-08,Pool B,B,8,Great Britain,Italy,676760,Ron Marinaccio,671155,Ivan Johnson,暴投,681230,BJ Murray,2B,3B
+788104,2026-03-08,Pool D,D,2,Israel,Nicaragua,692230,Carlos Rodriguez,695372,Jake Gelof,盗塁（二塁）,694249,Cole Carrigg,1B,2B
+788104,2026-03-08,Pool D,D,6,Israel,Nicaragua,469191,Carlos Teller,667690,C.J. Stubbs,牽制（一塁）,702331,Noah Mendlinger,1B,
+788134,2026-03-08,Pool A,A,5,Panama,Canada,683328,Antoine Jean,699024,Leo Bernal,盗塁（二塁）,690961,Enrique Bradfield Jr.,1B,2B
+788134,2026-03-08,Pool A,A,5,Canada,Panama,686857,James Gonzalez,676724,Jared Young,盗塁（二塁）,641933,Tyler O'Neill,1B,2B
+788134,2026-03-08,Pool A,A,6,Panama,Canada,572020,James Paxton,676609,José Caballero,盗塁（二塁）,690961,Enrique Bradfield Jr.,1B,2B
+788134,2026-03-08,Pool A,A,7,Panama,Canada,671936,Adam Macko,514630,Luis Castillo,暴投,624641,Edmundo Sosa,2B,3B
+788134,2026-03-08,Pool A,A,7,Panama,Canada,671936,Adam Macko,514630,Luis Castillo,暴投,542194,Christian Bethancourt,1B,2B
+788125,2026-03-08,Pool B,B,4,Mexico,Brazil,806891,Joao Gabriel Marostica,687401,Joey Ortiz,暴投,805373,Nacho Alvarez Jr.,3B,score
+788125,2026-03-08,Pool B,B,4,Mexico,Brazil,806891,Joao Gabriel Marostica,687401,Joey Ortiz,暴投,693304,Nick Gonzales,2B,3B
+788125,2026-03-08,Pool B,B,4,Mexico,Brazil,806891,Joao Gabriel Marostica,687401,Joey Ortiz,暴投,677950,Alek Thomas,1B,2B
+788125,2026-03-08,Pool B,B,5,Mexico,Brazil,806891,Joao Gabriel Marostica,656029,Alexis Wilson,暴投,608841,Joey Meneses,1B,2B
+788112,2026-03-09,Pool C,C,2,Korea,Australia,649143,Lachlan Wells,673526,Dong Won Park,盗塁（二塁）,823574,Si Hwan Roh,1B,2B
+788112,2026-03-09,Pool C,C,5,Korea,Australia,649144,Alex Wells,823575,Bo Gyeong Moon,盗塁（二塁）,838336,Hyun Min Ahn,1B,2B
+788112,2026-03-09,Pool C,C,6,Korea,Australia,649144,Alex Wells,838339,Do Yeong Kim,暴投,673526,Dong Won Park,2B,3B
+788103,2026-03-09,Pool D,D,4,Dominican Republic,Israel,592848,Zack Weiss,672695,Geraldo Perdomo,盗塁死（三塁）,682663,Agustín Ramírez,2B,
+788103,2026-03-09,Pool D,D,7,Dominican Republic,Israel,805374,Tanner Jacobson,665487,Fernando Tatis Jr.,盗塁（二塁）,672695,Geraldo Perdomo,1B,2B
+788133,2026-03-09,Pool A,A,6,Panama,Colombia,672550,Danis Correa,682947,Jose Ramos,暴投,699024,Leo Bernal,1B,2B
+788133,2026-03-09,Pool A,A,7,Panama,Colombia,664584,Jhon Romero,514913,Rubén Tejada,暴投,624641,Edmundo Sosa,2B,3B
+788133,2026-03-09,Pool A,A,7,Panama,Colombia,664584,Jhon Romero,514913,Rubén Tejada,暴投,665804,Miguel Amaya,1B,2B
+788133,2026-03-09,Pool A,A,8,Panama,Colombia,642857,Yapson Gomez,699024,Leo Bernal,盗塁（二塁）,676609,José Caballero,1B,2B
+788133,2026-03-09,Pool A,A,8,Panama,Colombia,690345,Pedro Garcia,514630,Luis Castillo,盗塁（二塁）,542194,Christian Bethancourt,1B,2B
+788123,2026-03-09,Pool B,B,5,Great Britain,Brazil,547921,Tiago Da Silva,695670,Harry Ford,盗塁（三塁）,572204,Trayce Thompson,2B,3B
+788123,2026-03-09,Pool B,B,6,Great Britain,Brazil,622609,Hector Villarroel,689288,Matt Koperniak,盗塁（二塁）,671155,Ivan Johnson,1B,2B
+788123,2026-03-09,Pool B,B,7,Great Britain,Brazil,828631,Joseph Contreras,681230,BJ Murray,盗塁死（二塁）,665862,Jazz Chisholm Jr.,1B,
+788123,2026-03-09,Pool B,B,7,Great Britain,Brazil,828631,Joseph Contreras,671155,Ivan Johnson,盗塁（二塁）,681230,BJ Murray,1B,2B
+788123,2026-03-09,Pool B,B,8,Great Britain,Brazil,649963,Bo Takahashi,800712,Wallace Clark,捕逸,572204,Trayce Thompson,1B,2B
+788131,2026-03-09,Pool A,A,1,Puerto Rico,Cuba,678789,Julio Robaina,571448,Nolan Arenado,盗塁（二塁）,650489,Willi Castro,1B,2B
+788131,2026-03-09,Pool A,A,6,Cuba,Puerto Rico,605441,Yacksel Ríos,628326,Erisbel Arruebarrena,暴投,493319,Alfredo Despaigne,2B,3B
+788131,2026-03-09,Pool A,A,6,Puerto Rico,Cuba,820888,Emmanuel Chapman,656896,Emmanuel Rivera,盗塁（二塁）,592696,Eddie Rosario,1B,2B
+788099,2026-03-09,Pool D,D,1,Venezuela,Nicaragua,807358,Danilo Bermudez,694192,Jackson Chourio,盗塁（二塁）,660670,Ronald Acuña Jr.,1B,2B
+788122,2026-03-09,Pool B,B,6,United States,Mexico,650960,Daniel Duarte,547180,Bryce Harper,盗塁（二塁）,677951,Bobby Witt Jr.,1B,2B
+788122,2026-03-09,Pool B,B,9,Mexico,United States,676477,Garrett Whitlock,677950,Alek Thomas,守備妨害,608841,Joey Meneses,1B,2B
+788111,2026-03-10,Pool C,C,7,Japan,Czechia,807156,Michal Kovala,673520,Yuhei Nakamura,盗塁（二塁）,683970,Ukyo Shuto,1B,2B
+788102,2026-03-10,Pool D,D,1,Kingdom of the Netherlands,Israel,701557,Carlos Lequerica,544369,Didi Gregorius,盗塁（三塁）,678882,Ceddanne Rafaela,2B,3B
+788102,2026-03-10,Pool D,D,6,Israel,Kingdom of the Netherlands,808721,Kevin Kelly,694249,Cole Carrigg,暴投,596117,Garrett Stubbs,2B,3B
+788102,2026-03-10,Pool D,D,6,Israel,Kingdom of the Netherlands,808721,Kevin Kelly,694249,Cole Carrigg,暴投,702302,RJ Schreck,1B,2B
+788132,2026-03-10,Pool A,A,2,Puerto Rico,Canada,666364,Jordan Balazovic,676679,Luis Vázquez,盗塁死（二塁）,683090,Matthew Lugo,1B,
+788119,2026-03-10,Pool B,B,3,Italy,United States,690997,Nolan McLean,686527,Dominic Canzone,盗塁（二塁）,805300,Jakob Marsee,1B,2B
+788119,2026-03-10,Pool B,B,3,United States,Italy,547179,Michael Lorenzen,683002,Gunnar Henderson,暴投,677951,Bobby Witt Jr.,1B,2B
+788119,2026-03-10,Pool B,B,3,United States,Italy,547179,Michael Lorenzen,683002,Gunnar Henderson,暴投,677951,Bobby Witt Jr.,2B,3B
+788119,2026-03-10,Pool B,B,3,United States,Italy,547179,Michael Lorenzen,683002,Gunnar Henderson,暴投,677951,Bobby Witt Jr.,1B,2B
+788119,2026-03-10,Pool B,B,3,United States,Italy,547179,Michael Lorenzen,683002,Gunnar Henderson,暴投,677951,Bobby Witt Jr.,2B,3B
+788119,2026-03-10,Pool B,B,6,Italy,United States,641745,Brad Keller,805300,Jakob Marsee,暴投,803011,Sam Antonacci,3B,score
+788130,2026-03-11,Pool A,A,3,Canada,Cuba,661267,Livan Moinelo,683357,Owen Caissie,捕逸,641933,Tyler O'Neill,2B,3B
+788130,2026-03-11,Pool A,A,3,Canada,Cuba,661267,Livan Moinelo,683357,Owen Caissie,捕逸,647351,Abraham Toro,1B,2B
+788130,2026-03-11,Pool A,A,6,Canada,Cuba,684320,Yariel Rodríguez,666310,Bo Naylor,暴投,571602,Matt Davidson,1B,3B
+788130,2026-03-11,Pool A,A,6,Canada,Cuba,684320,Yariel Rodríguez,666397,Edouard Julien,盗塁（二塁）,672016,Denzel Clarke,1B,2B
+788121,2026-03-11,Pool B,B,5,Italy,Mexico,665871,Javier Assad,702652,Andrew Fischer,盗塁（二塁）,695506,Jac Caglianone,1B,2B
+788121,2026-03-11,Pool B,B,5,Mexico,Italy,605400,Aaron Nola,677950,Alek Thomas,盗塁死（二塁）,693304,Nick Gonzales,1B,
+788101,2026-03-11,Pool D,D,3,Venezuela,Dominican Republic,645261,Sandy Alcantara,672580,Maikel Garcia,盗塁（二塁）,660670,Ronald Acuña Jr.,1B,2B
+788101,2026-03-11,Pool D,D,4,Venezuela,Dominican Republic,623211,Huascar Brazobán,660670,Ronald Acuña Jr.,暴投,677800,Wilyer Abreu,1B,2B
+788101,2026-03-11,Pool D,D,7,Venezuela,Dominican Republic,642701,Dennis Santana,575929,Willson Contreras,盗塁（二塁）,672580,Maikel Garcia,1B,2B
+788100,2026-03-13,Quarterfinal,,7,Canada,United States,670280,David Bednar,647304,Josh Naylor,捕逸,666397,Edouard Julien,2B,3B
+788100,2026-03-13,Quarterfinal,,7,Canada,United States,670280,David Bednar,647304,Josh Naylor,捕逸,672640,Otto Lopez,1B,2B
+788098,2026-03-14,Quarterfinal,,3,Italy,Puerto Rico,700842,Eduardo Rivera,803011,Sam Antonacci,盗塁（二塁）,807276,Dante Nori,1B,2B
+788098,2026-03-14,Quarterfinal,,4,Italy,Puerto Rico,700842,Eduardo Rivera,686527,Dominic Canzone,盗塁（二塁）,686469,Vinnie Pasquantino,1B,2B
+788098,2026-03-14,Quarterfinal,,8,Puerto Rico,Italy,686747,Joe La Sorsa,543877,Christian Vázquez,暴投,656896,Emmanuel Rivera,3B,score
+788098,2026-03-14,Quarterfinal,,8,Puerto Rico,Italy,686747,Joe La Sorsa,543877,Christian Vázquez,暴投,592696,Eddie Rosario,2B,3B
+788098,2026-03-14,Quarterfinal,,8,Puerto Rico,Italy,686747,Joe La Sorsa,543877,Christian Vázquez,暴投,663494,Bryan Torres,1B,2B
+788098,2026-03-14,Quarterfinal,,8,Italy,Puerto Rico,621242,Edwin Díaz,695336,Thomas Saggese,盗塁（二塁）,803011,Sam Antonacci,1B,2B
+788098,2026-03-14,Quarterfinal,,8,Italy,Puerto Rico,621242,Edwin Díaz,686527,Dominic Canzone,盗塁（二塁）,686469,Vinnie Pasquantino,1B,2B
+788098,2026-03-14,Quarterfinal,,9,Puerto Rico,Italy,669711,Greg Weissert,592696,Eddie Rosario,守備妨害,666126,Carlos Cortes,1B,2B
+788097,2026-03-14,Quarterfinal,,8,Venezuela,Japan,684001,Atsuki Taneichi,650402,Gleyber Torres,盗塁（三塁）,678662,Ezequiel Tovar,2B,3B
+788096,2026-03-15,Semifinal,,7,Dominican Republic,United States,670280,David Bednar,665487,Fernando Tatis Jr.,盗塁（二塁）,672695,Geraldo Perdomo,1B,2B
+788096,2026-03-15,Semifinal,,9,Dominican Republic,United States,695243,Mason Miller,665833,Oneil Cruz,暴投,677594,Julio Rodríguez,1B,2B
+788093,2026-03-16,Semifinal,,2,Italy,Venezuela,645307,Ricardo Sánchez,803011,Sam Antonacci,盗塁（二塁）,807276,Dante Nori,1B,2B
+788094,2026-03-17,Final,,3,Venezuela,United States,690997,Nolan McLean,672580,Maikel Garcia,暴投,521692,Salvador Perez,2B,3B
+788094,2026-03-17,Final,,3,Venezuela,United States,690997,Nolan McLean,672580,Maikel Garcia,暴投,660670,Ronald Acuña Jr.,1B,2B
+788094,2026-03-17,Final,,9,Venezuela,United States,676477,Garrett Whitlock,553993,Eugenio Suárez,盗塁（二塁）,691594,Javier Sanoja,1B,2B

@@ -59,7 +59,7 @@
 673134,Mitchell Edwards,Australia,C,1,1999-08-01,26,180,91,S,R,Australia,Adelaide Giants,,
 673132,Ky Hampton,Australia,P,26,2000-10-04,25,185,70,R,R,Australia,Adelaide Giants,,
 678521,Chris Burke,Australia,LF,34,2001-08-16,24,178,82,L,R,Australia,Melbourne Aces,,
-678620,Blake Townsend,Australia,P,54,2001-04-05,24,193,111,L,L,Australia,Frisco RoughRiders,,
+678620,Blake Townsend,Australia,P,54,2001-04-05,25,193,111,L,L,Australia,Frisco RoughRiders,,
 807163,Marek Krejcirik,Czechia,PR,97,2001-06-27,24,175,75,L,R,Czechia,,,
 838347,Ondrej Vank,Czechia,P,23,2005-04-25,20,185,87,R,R,Czechia,,,
 693980,Martin Zelenka,Czechia,C,38,2000-12-20,25,190,111,R,R,Czechia,,,
@@ -101,7 +101,7 @@
 823593,Min Jae Shin,Korea,2B,4,1996-01-21,30,170,67,L,R,Republic of Korea,,,
 823570,Hyung Jun Kim,Korea,C,25,1999-11-02,26,188,98,R,R,Republic of Korea,,,
 823572,Ju Won Kim,Korea,SS,7,2002-07-30,23,185,83,R,R,Republic of Korea,,,
-808975,Hyeseong Kim,Korea,2B,3,1999-01-27,27,178,79,L,R,Republic of Korea,Oklahoma City Comets,2025,1
+808975,Hyeseong Kim,Korea,2B,3,1999-01-27,27,178,79,L,R,Republic of Korea,Los Angeles Dodgers,2025,1
 838342,Young Kyu Kim,Korea,P,14,2000-02-10,26,188,86,L,L,Republic of Korea,,,
 823559,Taek Yeon Kim,Korea,P,63,2005-06-03,20,180,88,R,R,Republic of Korea,,,
 808978,Young Pyo Ko,Korea,P,1,1991-09-16,34,185,88,R,R,Republic of Korea,,,
@@ -133,7 +133,7 @@
 673520,Yuhei Nakamura,Japan,C,27,1990-06-17,35,175,79,R,R,Japan,,,
 808955,Hiromi Itoh,Japan,P,14,1997-08-31,28,178,82,L,R,Japan,,,
 838755,Shoma Fujihira,Japan,P,46,1998-09-21,27,185,85,R,R,Japan,,,
-673548,Seiya Suzuki,Japan,RF,51,1994-08-18,31,180,83,R,R,Japan,Chicago Cubs,2022,4
+673548,Seiya Suzuki,Japan,RF,51,1994-08-18,31,180,83,R,R,Japan,Knoxville Smokies,2022,4
 838757,Chihiro Sumida,Japan,P,22,1999-08-20,26,175,76,L,L,Japan,,,
 838756,Yumeto Kanemaru,Japan,P,24,2003-02-01,23,178,77,L,L,Japan,,,
 660271,Shohei Ohtani,Japan,DH,16,1994-07-05,31,193,95,L,R,Japan,Los Angeles Dodgers,2018,8
@@ -151,7 +151,7 @@
 808962,Taisei Ota,Japan,P,15,1999-06-29,26,180,88,R,R,Japan,,,
 672960,Kazuma Okamoto,Japan,3B,25,1996-06-30,29,185,100,R,R,Japan,Toronto Blue Jays,2026,0
 808967,Yoshinobu Yamamoto,Japan,P,18,1998-08-17,27,178,80,R,R,Japan,Los Angeles Dodgers,2024,2
-683061,Alexander Vargas,Cuba,SS,13,2001-10-29,24,180,83,R,R,Cuba,Dayton Dragons,,
+683061,Alexander Vargas,Cuba,SS,13,2001-10-29,24,180,83,R,R,Cuba,Chattanooga Lookouts,,
 661270,Roel Santos,Cuba,CF,1,1987-09-15,38,168,78,L,L,Cuba,Olmecas de Tabasco,,
 628326,Erisbel Arruebarrena,Cuba,SS,71,1990-03-25,36,185,104,R,R,Cuba,Algodoneros de Guasave,2014,12
 493351,Alexei Ramirez,Cuba,SS,2,1981-09-22,44,188,82,R,R,Cuba,Diablos Rojos del Mexico,2008,18
@@ -201,7 +201,7 @@
 665804,Miguel Amaya,Panama,C,9,1999-03-09,27,185,104,R,R,Panama,Chicago Cubs,2023,3
 502179,Paolo Espino,Panama,P,21,1987-01-10,39,178,96,R,R,Panama,Panama,2017,9
 690961,Enrique Bradfield Jr.,Panama,CF,2,2001-12-02,24,180,77,L,L,USA,Norfolk Tides,,
-671106,Logan Allen,Panama,P,26,1998-09-05,27,183,86,R,L,USA,Columbus Clippers,2023,3
+671106,Logan Allen,Panama,P,26,1998-09-05,27,183,86,R,L,USA,Cleveland Guardians,2023,3
 650668,Humberto Mejía,Panama,P,91,1997-03-03,29,193,111,R,R,Panama,Panama,2020,6
 642545,Jaime Barria,Panama,P,51,1996-07-18,29,185,95,R,R,Panama,Algodoneros Union Laguna,2018,8
 665789,Kenny Hernandez,Panama,P,24,1998-06-24,27,185,89,L,L,Panama,Dominican Republic,,
@@ -249,11 +249,11 @@
 664346,Carlos Guzman,Venezuela,P,20,1998-05-16,27,185,95,R,R,Venezuela,Binghamton Rumble Ponies,,
 694192,Jackson Chourio,Venezuela,CF,1,2004-03-11,22,185,90,R,R,Venezuela,Milwaukee Brewers,2024,2
 521692,Salvador Perez,Venezuela,DH,13,1990-05-10,35,188,116,R,R,Venezuela,Kansas City Royals,2011,15
-679883,Luinder Avila,Venezuela,P,58,2001-08-21,24,190,88,R,R,Venezuela,Omaha Storm Chasers,2025,1
+679883,Luinder Avila,Venezuela,P,58,2001-08-21,24,190,88,R,R,Venezuela,Kansas City Royals,2025,1
 665926,Andrés Giménez,Venezuela,2B,0,1998-09-04,27,180,73,L,R,Venezuela,Toronto Blue Jays,2020,6
 676130,José Buttó,Venezuela,P,70,1998-03-19,28,183,94,R,R,Venezuela,San Francisco Giants,2022,4
 677800,Wilyer Abreu,Venezuela,LF,16,1999-06-24,26,178,98,L,L,Venezuela,Boston Red Sox,2023,3
-672456,Keider Montero,Venezuela,P,54,2000-07-06,25,185,66,R,R,Venezuela,Toledo Mud Hens,2024,2
+672456,Keider Montero,Venezuela,P,54,2000-07-06,25,185,66,R,R,Venezuela,Detroit Tigers,2024,2
 691594,Javier Sanoja,Venezuela,CF,4,2002-09-03,23,170,68,R,R,Venezuela,Miami Marlins,2024,2
 600921,Andrés Machado,Venezuela,P,30,1993-04-22,32,185,105,R,R,Venezuela,Caribes de Anzoategui,2017,9
 650402,Gleyber Torres,Venezuela,2B,25,1996-12-13,29,178,93,R,R,Venezuela,Detroit Tigers,2018,8
@@ -301,7 +301,7 @@
 696519,Samy Natera Jr.,Mexico,P,17,1999-11-05,26,193,104,L,L,Mexico,Salt Lake Bees,,
 693304,Nick Gonzales,Mexico,2B,13,1999-05-27,26,173,88,R,R,USA,Pittsburgh Pirates,2023,3
 677950,Alek Thomas,Mexico,CF,5,2000-04-28,25,175,79,L,L,USA,Arizona Diamondbacks,2022,4
-695402,Najer Victor,Great Britain,P,8,2001-11-28,24,185,88,R,R,USA,Rancho Cucamonga Quakes,,
+695402,Najer Victor,Great Britain,P,8,2001-11-28,24,185,88,R,R,USA,Rocket City Trash Pandas,,
 701796,Will Cresswell,Great Britain,C,30,2003-08-18,22,183,93,R,R,USA,Dunedin Blue Jays,,
 689288,Matt Koperniak,Great Britain,LF,29,1998-02-08,28,183,94,L,R,United Kingdom,Memphis Redbirds,,
 687045,Justin Wylie,Great Britain,OF,13,1996-08-26,29,178,88,R,R,USA,Jaguares de Nayarit,,
@@ -330,10 +330,10 @@
 474699,Vance Worley,Great Britain,P,49,1987-09-25,38,188,109,R,R,USA,Syracuse Mets,2010,16
 671155,Ivan Johnson,Great Britain,3B,15,1998-10-11,27,183,86,S,R,USA,Louisville Bats,,
 676942,Graham Spraker,Great Britain,P,96,1995-03-19,31,188,85,R,R,USA,Cardenales de Lara,,
-691588,Ian Lewis Jr.,Great Britain,SS,6,2003-02-04,23,180,80,S,R,Bahamas,Pensacola Blue Wahoos,,
+691588,Ian Lewis Jr.,Great Britain,SS,6,2003-02-04,23,180,84,S,R,Bahamas,Pensacola Blue Wahoos,,
 670103,Raymond Burgos,Puerto Rico,P,29,1998-11-29,27,196,95,L,L,Puerto Rico,Gigantes de Carolina,2024,2
-455117,Martín Maldonado,Puerto Rico,C,15,1986-08-16,39,183,104,R,R,Puerto Rico,Indios de Mayaguez,2011,15
 663494,Bryan Torres,Puerto Rico,CF,2,1997-07-02,28,170,75,L,R,Puerto Rico,Memphis Redbirds,,
+455117,Martín Maldonado,Puerto Rico,C,15,1986-08-16,39,183,104,R,R,Puerto Rico,Indios de Mayaguez,2011,15
 695684,Elmer Rodríguez,Puerto Rico,P,18,2003-08-18,22,193,80,L,R,Puerto Rico,Scranton/Wilkes-Barre RailRiders,,
 671218,Heliot Ramos,Puerto Rico,LF,22,1999-09-07,26,180,107,R,R,Puerto Rico,San Francisco Giants,2022,4
 681938,Angel Reyes,Puerto Rico,P,34,1997-10-17,28,188,93,R,R,Puerto Rico,Saraperos de Saltillo,,
@@ -369,8 +369,8 @@
 627218,Emerson Martinez,Colombia,P,96,1995-01-11,31,183,86,R,R,Venezuela,Tiburones de La Guaira,,
 623912,Harold Ramírez,Colombia,LF,43,1994-09-06,31,180,105,R,R,Colombia,Tecos de los Dos Laredos,2019,7
 622426,Adrian Almeida,Colombia,P,19,1995-02-25,31,183,73,L,L,Venezuela,Rieleros de Aguascalientes,,
-666669,Elkin Alcala,Colombia,P,26,1997-08-02,28,180,79,R,R,Colombia,Charros de Jalisco,,
 456781,Donovan Solano,Colombia,2B,7,1987-12-17,38,173,95,R,R,Colombia,Texas Rangers,2012,14
+666669,Elkin Alcala,Colombia,P,26,1997-08-02,28,180,79,R,R,Colombia,Charros de Jalisco,,
 664584,Jhon Romero,Colombia,P,73,1995-01-17,31,178,88,R,R,Colombia,Tigres de Aragua,2021,5
 642751,Carlos Martínez,Colombia,C,70,1995-05-02,30,180,88,R,R,Colombia,Saraperos de Saltillo,,
 500779,Jose Quintana,Colombia,P,62,1989-01-24,37,188,102,R,L,Colombia,Colorado Rockies,2012,14
@@ -389,8 +389,8 @@
 677013,Rio Gomez,Colombia,P,92,1994-10-20,31,183,86,L,L,USA,Estrellas Orientales,,
 642857,Yapson Gomez,Colombia,P,30,1993-10-02,32,178,73,L,L,Venezuela,Tiburones de La Guaira,,
 471906,Reynaldo Rodriguez,Colombia,1B,17,1986-07-02,39,183,88,R,R,Colombia,Guerreros de Oaxaca,,
-678863,Carlos Arroyo,Colombia,2B,40,2001-07-11,24,175,77,R,R,Colombia,Rome Emperors,,
 678962,Daniel Vellojin,Colombia,C,51,2000-03-15,26,180,73,L,R,Colombia,Montgomery Biscuits,,
+678863,Carlos Arroyo,Colombia,2B,40,2001-07-11,24,175,77,R,R,Colombia,Rome Emperors,,
 667351,Brandon Leyton,Nicaragua,PH,5,1998-12-17,27,178,75,R,R,Nicaragua,Dayton Dragons,,
 692230,Carlos Rodriguez,Nicaragua,P,27,2001-11-27,24,180,92,R,R,Nicaragua,Nashville Sounds,2024,2
 821829,Jose Orozco,Nicaragua,IF,20,1999-06-03,26,170,79,L,R,Nicaragua,,,
@@ -502,7 +502,7 @@
 838357,Enzo Hayashida,Brazil,C,20,2008-01-01,18,173,82,R,R,Brazil,,,
 682858,Gabriel Barbosa,Brazil,P,31,2002-01-22,24,183,91,R,R,Brazil,Jersey Shore BlueClaws,,
 553891,Leonardo Reginatto,Brazil,3B,5,1990-04-10,35,188,85,R,R,Brazil,Olmecas de Tabasco,,
-624531,Lucas Rojo,Brazil,2B,15,1994-04-05,31,168,68,R,R,Brazil,VSL Phillies,,
+624531,Lucas Rojo,Brazil,2B,15,1994-04-05,32,168,68,R,R,Brazil,VSL Phillies,,
 836637,Vitor Takahashi,Brazil,P,40,2008-03-11,18,183,96,R,R,Brazil,,,
 605142,Dante Bichette Jr.,Brazil,DH,77,1992-09-26,33,188,93,R,R,USA,Washington Nationals,,
 627387,Hugo Kanabushi,Brazil,P,66,1989-05-22,36,180,82,L,L,Brazil,,,
@@ -518,7 +518,7 @@
 647228,Adam Hall,Canada,SS,2,1999-05-22,26,180,75,R,R,Bermuda,Biloxi Shuckers,,
 671936,Adam Macko,Canada,P,64,2000-12-30,25,183,77,L,L,Slovakia,Buffalo Bisons,,
 571602,Matt Davidson,Canada,3B,24,1991-03-26,35,190,104,R,R,USA,Las Vegas Aviators,2013,13
-642239,Rob Zastryzny,Canada,P,58,1992-03-26,34,190,105,R,L,Canada,Nashville Sounds,2016,10
+642239,Rob Zastryzny,Canada,P,58,1992-03-26,34,190,105,R,L,Canada,Milwaukee Brewers,2016,10
 683363,Matt Wilkinson,Canada,P,35,2002-12-10,23,185,113,R,L,Canada,Akron RubberDucks,,
 666301,Indigo Diaz,Canada,P,52,1998-10-14,27,196,113,R,R,Canada,Amarillo Sod Poodles,,
 663531,Logan Allen,Canada,P,22,1997-05-23,28,190,91,R,L,USA,Oklahoma City Comets,2019,7
